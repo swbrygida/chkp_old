@@ -1,11 +1,12 @@
 <template>
   <Layout>
-
-    <!-- <div class="loader">
+    <div class="loaderF">
+    </div>
+    <div class="loader">
       <div class="brygida_logo" @click="loaderGo">
         <g-image src="~/assets/brygida_logo_fff.svg" width="500"/>
       </div>
-    </div> -->
+    </div>
     <div class="menusy">
 
 
@@ -204,12 +205,8 @@
 
   export default {
     mounted() {
-      // const timeline = new TimelineLite();
-      // const loaderF = document.querySelector(".loaderF");
-      // timeline.to(loaderF, 1.6, {x: '-100%',}).to(loaderF, 1, {opacity: 0});
-      const timeline = new TimelineLite();
-      const menuBig = document.querySelector(".menu");
-      timeline.from(menuBig, 1.1, {x: '-30%', opacity: 0});
+      const loaderF = document.querySelector(".loaderF");
+      gsap.to(loaderF, 1.6, {x: '-100%',}).to(loaderF, 1, {opacity: 0});
     },
     data() {
       return {
@@ -242,11 +239,12 @@
         .from(loaderMenu2, 1.1, {x: '-40%', opacity: 0}).to(loaderMenu2, 1, {opacity: 1});
       },
       loaderGo() {
-        const timeline = new TimelineLite();
+
         const loader = document.querySelector(".loader");
         const menuBig = document.querySelector(".menu");
 
-        timeline.to(loader, 1.6, {x: '-100%', opacity: 0}).from(menuBig, 1.1, {x: '-30%', opacity: 0});
+        gsap.to(loader, 1.6, {x: '-100%', opacity: 0});
+        gsap.from(menuBig, 1.1, {x: '-30%', opacity: 0});
 
       }
     }
@@ -259,7 +257,7 @@
 .home-links a {
   margin-right: 1rem;
 }
-/* .loader {
+.loader {
   width: 100%;
   height: 100%;
   position: fixed;
@@ -267,8 +265,16 @@
   background-color: #000;
   z-index: 1000;
   display: block;
-} */
-
+}
+.loaderF {
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  top:0; left:0;
+  background-color: #000;
+  z-index: 1000000;
+  display: block;
+}
 .brygida_logo {
   display: flex;
   align-items: center;
