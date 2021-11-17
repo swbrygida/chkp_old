@@ -1,7 +1,6 @@
 <template>
   <Layout>
-    <div class="loaderF">
-    </div>
+
     <div class="loader">
       <div class="brygida_logo" @click="loaderGo">
         <g-image src="~/assets/brygida_logo_fff.svg" width="500"/>
@@ -266,15 +265,7 @@
   z-index: 1000;
   display: block;
 }
-.loaderF {
-  width: 100%;
-  height: 100%;
-  position: fixed;
-  top:0; left:0;
-  background-color: #000;
-  z-index: 1000000;
-  display: block;
-}
+
 .brygida_logo {
   display: flex;
   align-items: center;
