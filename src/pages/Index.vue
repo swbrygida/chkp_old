@@ -216,27 +216,27 @@
     methods: {
       pokaVfaz() {
         this.submenu = "Vfaz";
-        const timeline = new TimelineLite();
         const loaderMenu2 = document.querySelector(".menu2");
         const menuBig = document.querySelector(".menu");
-        timeline.to(menuBig, 1.1, {x: '40%', opacity: 0, display: "none"})
-        .from(loaderMenu2, 1.1, {x: '-40%', opacity: 0}).to(loaderMenu2, 1, {opacity: 1});
+        gsap.to(menuBig, 1.1, {x: '40%', opacity: 0, display: "none"});
+        gsap.from(loaderMenu2, 1.1, {delay: 1.1, x: '-40%', opacity: 0})
+        gsap.to(loaderMenu2, 1, {delay: 1.1, opacity: 1});
       },
       historia() {
         this.submenu = "historia";
-        const timeline = new TimelineLite();
         const loaderMenu2 = document.querySelector(".menu3");
         const menuBig = document.querySelector(".menu");
-        timeline.to(menuBig, 1.1, {x: '40%', opacity: 0, display: "none"})
-        .from(loaderMenu2, 1.1, {x: '-40%', opacity: 0}).to(loaderMenu2, 1, {opacity: 1});
+        gsap.to(menuBig, 1.1, {x: '40%', opacity: 0, display: "none"});
+        gsap.from(loaderMenu2, 1.1, {delay: 1.1, x: '-40%', opacity: 0});
+        gsap.to(loaderMenu2, 1, {delay: 1.1, opacity: 1});
       },
       zabytki() {
         this.submenu = "zabytki";
-        const timeline = new TimelineLite()
         const loaderMenu2 = document.querySelector(".menu4");
         const menuBig = document.querySelector(".menu");
-        timeline.to(menuBig, 1.1, {x: '40%', opacity: 0, display: "none"})
-        .from(loaderMenu2, 1.1, {x: '-40%', opacity: 0}).to(loaderMenu2, 1, {opacity: 1});
+        gsap.to(menuBig, 1.1, {x: '40%', opacity: 0, display: "none"});
+        gsap.from(loaderMenu2, 1.1, {delay: 1.1, x: '-40%', opacity: 0});
+        gsap.to(loaderMenu2, 1, {delay: 1.1, opacity: 1});
       },
       loaderGo() {
 
@@ -244,7 +244,7 @@
         const menuBig = document.querySelector(".menu");
 
         gsap.to(loader, 1.6, {x: '-100%', opacity: 0});
-        gsap.from(menuBig, 1.1, {x: '-30%', opacity: 0});
+        gsap.from(menuBig, 1.1, {delay: 1, x: '-30%', opacity: 0});
 
       }
     }
