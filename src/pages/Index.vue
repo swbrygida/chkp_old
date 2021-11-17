@@ -1,11 +1,11 @@
 <template>
   <Layout>
 
-    <div class="loader">
+    <!-- <div class="loader">
       <div class="brygida_logo" @click="loaderGo">
         <g-image src="~/assets/brygida_logo_fff.svg" width="500"/>
       </div>
-    </div>
+    </div> -->
     <div class="menusy">
 
 
@@ -204,9 +204,12 @@
 
   export default {
     mounted() {
+      // const timeline = new TimelineLite();
+      // const loaderF = document.querySelector(".loaderF");
+      // timeline.to(loaderF, 1.6, {x: '-100%',}).to(loaderF, 1, {opacity: 0});
       const timeline = new TimelineLite();
-      const loaderF = document.querySelector(".loaderF");
-      timeline.to(loaderF, 1.6, {x: '-100%',}).to(loaderF, 1, {opacity: 0});
+      const menuBig = document.querySelector(".menu");
+      timeline.from(menuBig, 1.1, {x: '-30%', opacity: 0});
     },
     data() {
       return {
@@ -256,7 +259,7 @@
 .home-links a {
   margin-right: 1rem;
 }
-.loader {
+/* .loader {
   width: 100%;
   height: 100%;
   position: fixed;
@@ -264,7 +267,7 @@
   background-color: #000;
   z-index: 1000;
   display: block;
-}
+} */
 
 .brygida_logo {
   display: flex;
