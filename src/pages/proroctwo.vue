@@ -3,7 +3,7 @@
     <section>
 
   <h3>Proroctwo Brygidy</h3>
-  <div class="figure">
+  <div class="figure onme">
   <img src="../assets/fotosy/Brygida2.jpg" />
   </div>
   <p>„zostaną złamane ich zęby i skruszone ostrza ich mieczy” </br>
@@ -27,7 +27,7 @@
   Zamość 1698, ks. lI, rozdz. 19, s.138.</p>
   </section>
 <section>
-  <div class="figure">
+  <div class="figure onme">
   <img src="../assets/fotosy/Brygida-zywot-proroctwo.jpg" />
   </div>
   <p>Henryk Sienkiewicz przywołał te słowa za Janem Długoszem w „Krzyżakach” – „Na to podkanclerzy Mikołaj, który znał przepowiednie św. Brygidy, rzekł: Nadszedł czas, iż wyłamane są ich zęby i odcięta jest ich ręka prawa”. Zwycięstwo nad Krzyżakami odniesione przez króla Władysława Jagiełły pod Grunwaldem w 1410 roku stało się wypełnieniem przepowiedni świętej Brygidy sprzed kilkudziesięciu lat.</p>

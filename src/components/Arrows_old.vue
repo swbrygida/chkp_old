@@ -2,22 +2,31 @@
   <div class="counter2">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
 
+<ul>
 
 
-  <a href="#" @click="dodaj">
+  <li  @click="dodaj">
+  <a href="#">
   <i class="fas fa-angle-double-down"></i>
   </a>
+  </li>
+  <li>
   <a href="#">
-  <i class="">{{clicker}}/{{allSections}}</i>
+  <i class="">{{clicker}}</i>
   </a>
-
-  <a href="#"  @click="odejmij">
+  </li>
+  <li @click="odejmij">
+  <a href="#">
   <i class="fas fa-angle-double-up" ></i>
   </a>
+  </li>
+  <li>
 <a href="/menu/">
 <i class="fas fa-solid fa-bars"></i>
 </a>
+  </li>
 
+  </ul>
 
 
   </div><!-- koniec counter -->
@@ -68,55 +77,79 @@ export default {
 </script>
 <style scoped>
 @media screen  and (orientation: portrait) {
-  .counter2 {
+  ul {
   margin: 0 ;
   padding: 1vh 0;
-  width: 100vw;
+  width: 99vw;
   height: 30vh;
   display: flex;
-  justify-content: space-around;
+  justify-content: flex-end;
   position: fixed;
-  bottom: 0;
+  bottom: 20vh;
   right: 0;
   max-height: 19vw;
-  background: #333;
 
   }
 }
 
 @media screen  and (orientation: landscape) {
-  .counter2 {
+  ul {
   margin: 0 ;
   padding: 1vh 0;
-  width: 48vh;
-  height: 11vh;
+  width: 99vw;
+  height: 20vh;
   display: flex;
-  justify-content: space-between;
+  justify-content: flex-end;
   position: fixed;
   bottom: 0;
   right: 0;
-  background: #333;
 
   }
 }
 
 
-a {
-  width: 11vh;
-  height: 11vh;
-  padding: 1vh 1vw;
+
+ul li {
+list-style: none;
+margin: 0 1vw;
+width: 8vh;
+height: 8vh;
+}
+
+ul li a {
+  position: relative;
+  display: block;
+  width: 8vh;
+  height: 8vh;
   text-align: center;
-
+  line-height: 3px;
   background: #333;
-  /* border-radius: 50%; */
-
+  border-radius: 50%;
+  font-size: 30px;
   color: #666;
   transition: .5s;
 }
 
+ul li a::before {
+content: '';
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+border-radius: 50%;
+background: #ffee10;
+transition: .5s;
+transform: scale(.9);
+z-index: -1;
+}
 
+ul li a:hover::before {
+transform: scale(1.1);
+box-shadow: 0 0 15px #ffee10;
+}
 
-a:hover {
+ul li a:hover {
 color: #ffee10;
 box-shadow: 0 0 5px #ffee10;
 text-shadow: 0 0 5px #ffee10;

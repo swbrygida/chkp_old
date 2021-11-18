@@ -8,6 +8,8 @@
 
 
 <style>
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,300;1,800&family=Inknut+Antiqua:wght@800&family=Libre+Baskerville:ital@1&display=swap');
+
 @font-face {
 	font-family: 'Conv_Ubuntu-LI';
 	src: url('../assets/fonts/Ubuntu-LI.eot');
@@ -17,8 +19,15 @@
 	font-weight: normal;
 	font-style: normal;
 }
+h1, h2, h3, h4 {
+  font-family: 'Inknut Antiqua', serif;
+
+}
+
 body {
     font-family:  'Conv_Ubuntu-LI', sans-serif;
+    /* font-family: 'Exo 2', sans-serif; */
+    /* font-family: 'Libre Baskerville', serif; */
     font-weight: normal;
     font-style: normal;
     margin: 0;
@@ -26,11 +35,16 @@ body {
     border: 0;
     background-color: #000;
     display: flex;
+    flex-direction: column;
     justify-content: center;
+    align-items: center;
+
 }
+
 section {
   display: none;
   min-height: 110vh;
+
 }
 .figure {
   overflow: hidden;
@@ -58,9 +72,9 @@ transition: all 50s;
 }
 @media screen  and (orientation: portrait) {
   h3 {
-    font-size: 1.4rem;
+    font-size: 1.1rem;
     z-index: 44;
-    padding: 10vh 0;
+    padding: 3vh 0;
   }
   a, ul, ol, p {
       color: #fff;
@@ -69,6 +83,18 @@ transition: all 50s;
       padding: 10vh 0;
       line-height: 1.1em;
   }
+  .brygida_logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 99vw;
+    height: 99vh;
+
+  }
+  .brygida_logo img {
+    height: 65%;
+    max-width: 80%;
+  }
 }
 @media screen  and (orientation: landscape) {
   h3 {
@@ -76,7 +102,7 @@ transition: all 50s;
     position: relative;
     top: 30vh;
     z-index: 44;
-    padding-left: 10vw;
+    padding: 0 5vw;
     margin-top: -20vh;
   }
   a, ul, ol, p {
@@ -85,10 +111,23 @@ transition: all 50s;
       font-size: 1.6em;
       overflow: hidden;
       padding: 10vh 0;
-      line-height: 1.4em;
+      line-height: 2.2em;
+  }
+  .brygida_logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .brygida_logo img {
+    max-width: 35%;
+    max-height: 90%;
   }
   img.small {
     width: 40%;
+  }
+  .onme {
+    margin-bottom: -450px;
+    z-index: -1;
   }
 }
 </style>

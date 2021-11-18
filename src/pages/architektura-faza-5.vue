@@ -34,13 +34,13 @@
 <section>
   <p>PODSUMOWANIE</p>
   <p>Podsumowując, trzeba wskazać, że wg dostępnych danych do 2011-2012 roku – kościół powstał w dwóch fazach.</p>
-  <p>Pierwsza z nich gotycka, trwała od ok. 1420 roku do mniej więcej lat 80. XVI wieku <a href="#sdfootnote1sym">1</a>. Niemniej jednak informacje przywołane m.in. przez ks. Jana Władzińskiego – na co wskazano wyżej – mogły wskazywać, że w strukturze budowlanej kościoła kryją się relikty wcześniejszej budowli. Powyższe wynikało m.in. z następujących przekazów: ,,Pewna niewiasta, której nazwisko nieznane (Wojciecha), całą swą majętność, składającą się z trzech łanów pola wraz z domem mieszkalnym i zabudowaniami przekazała w końcu XIV wieku miastu, z tym jednak warunkiem, że wybudowaną zostanie na ofiarowanym placu kaplica ku czci Najświętszej Panny. Zwracają się tedy rajcowie do biskupa krakowskiego Piotra o pozwolenie budowy i otrzymują takowe. Sam biskup zjeżdża do Lublina, aby założyć pierwszy kamień pod nowy ten przybytek Pański, który nosił tytuł kaplicy Panny Maryi oraz św. Barbary i św. Zofii.I oto pragnąc postawić pomnik w Lublinie na pamiątkę zwycięstwa pod Grunwaldem, na tę kaplicę zwraca uwagę Jagiełło. Ustronne miejsce posiadało dość naokoło placu swobodnego, aby odpowiedzieć zamierzonej funkcji” <a href="#sdfootnote2sym">2</a>.</p>
+  <p>Pierwsza z nich gotycka, trwała od ok. 1420 roku do mniej więcej lat 80. XVI wieku <a href="#sdfootnote1sym" title="Akt fundacyjny uposażający klasztor lubelskie, wydany przez Króla W. Jagiełłę w 1426 roku, usankcjonował niejako wcześniejsze funkcjonowanie już kościoła pod wezw. Wniebowzięcia NMP Zwycięskiej.">1</a>. Niemniej jednak informacje przywołane m.in. przez ks. Jana Władzińskiego – na co wskazano wyżej – mogły wskazywać, że w strukturze budowlanej kościoła kryją się relikty wcześniejszej budowli. Powyższe wynikało m.in. z następujących przekazów: ,,Pewna niewiasta, której nazwisko nieznane (Wojciecha), całą swą majętność, składającą się z trzech łanów pola wraz z domem mieszkalnym i zabudowaniami przekazała w końcu XIV wieku miastu, z tym jednak warunkiem, że wybudowaną zostanie na ofiarowanym placu kaplica ku czci Najświętszej Panny. Zwracają się tedy rajcowie do biskupa krakowskiego Piotra o pozwolenie budowy i otrzymują takowe. Sam biskup zjeżdża do Lublina, aby założyć pierwszy kamień pod nowy ten przybytek Pański, który nosił tytuł kaplicy Panny Maryi oraz św. Barbary i św. Zofii.I oto pragnąc postawić pomnik w Lublinie na pamiątkę zwycięstwa pod Grunwaldem, na tę kaplicę zwraca uwagę Jagiełło. Ustronne miejsce posiadało dość naokoło placu swobodnego, aby odpowiedzieć zamierzonej funkcji” <a href="#sdfootnote2sym">2</a>.</p>
   <div class="figure">
   <img src="../assets/fotosy/ilustracja-6.jpg" />
   </div>
 </section>
 <section>
-  <p>Jedynym zachowanym przekazem ikonograficznym, który pokazuje w przybliżeniu świątynię z tego okresu – to sztych Jerzego Brauna i Abrahama Hogenberga (ilustracja 6). Zgodnie z tym przedstawieniem bryła kościoła przewyższa wielkością zabudowania klasztorne, korpus nawowy przekryty był osobnym stromym dachem z sygnaturką, od wschodu znajdowało się niższe, zamknięte prosto prezbiterium. Wieży kościół jeszcze wówczas nie posiadał, co zgodne było z przepisami zawartymi w regule św. Brygidy. Widoczny jest także schodkowy szczyt fasady, który do dzisiaj jest najbardziej charakterystycznym elementem pozostałym po XV-wiecznym kościele. Forma szczytu – wg badaczy – nawiązuje do rozwiązań występujących na Pomorzu, wykształconych tam przed polową XIV wieku (np. kościół podominikański w Chełmnie). Wzorce takiego rozwiązania szczytu kościoła lubelskiego, mogli przynieść ze sobą pierwsi niemieccy zakonnicy sprowadzeni z Gdańska, którzy przebywali w Lublinie do ok. 1424-1425 roku do ok. XV wieku <a href="#sdfootnote3sym">3</a>. (ilustracja 7). O gotyckiej przeszłości kościoła świadczy także użycie cegły gotyckiej oraz ostrołukowe otwory okienne, odkryte podczas prac prowadzonych przez J. Siennickiego w przyziemiu obecnej wieży kościelnej, a także w elewacji frontowej (ilustracja 8) (poniżej którego natrafiono na „ślad otworu wejściowego, zamkniętego segmentem, określanego jako gotycki <a href="#sdfootnote4sym">4</a>) oraz zlokalizowane na strychu kościoła. Drugie wejście do świątyni znajdowało się w ścianie bocznej nawy głównej, na zapleczu obecnej wieży-dzwonnicy (zachowane w górnej części do dzisiaj) – zamknięte ostrym łukiem i flankowane po bokach sznurowym ornamentem (ilustracja 9), wskazującym na XV wieczne pochodzenie <a href="#sdfootnote5sym">5</a>.</p>
+  <p>Jedynym zachowanym przekazem ikonograficznym, który pokazuje w przybliżeniu świątynię z tego okresu – to sztych Jerzego Brauna i Abrahama Hogenberga (ilustracja 6). Zgodnie z tym przedstawieniem bryła kościoła przewyższa wielkością zabudowania klasztorne, korpus nawowy przekryty był osobnym stromym dachem z sygnaturką, od wschodu znajdowało się niższe, zamknięte prosto prezbiterium. Wieży kościół jeszcze wówczas nie posiadał, co zgodne było z przepisami zawartymi w regule św. Brygidy. Widoczny jest także schodkowy szczyt fasady, który do dzisiaj jest najbardziej charakterystycznym elementem pozostałym po XV-wiecznym kościele. Forma szczytu – wg badaczy – nawiązuje do rozwiązań występujących na Pomorzu, wykształconych tam przed polową XIV wieku (np. kościół podominikański w Chełmnie). Wzorce takiego rozwiązania szczytu kościoła lubelskiego, mogli przynieść ze sobą pierwsi niemieccy zakonnicy sprowadzeni z Gdańska, którzy przebywali w Lublinie do ok. 1424-1425 roku do ok. XV wieku  <a href="#sdfootnote3sym" title="M. Michoński, op. cit., s. 97">3</a>. (ilustracja 7). O gotyckiej przeszłości kościoła świadczy także użycie cegły gotyckiej oraz ostrołukowe otwory okienne, odkryte podczas prac prowadzonych przez J. Siennickiego w przyziemiu obecnej wieży kościelnej, a także w elewacji frontowej (ilustracja 8) (poniżej którego natrafiono na „ślad otworu wejściowego, zamkniętego segmentem, określanego jako gotycki <a href="#sdfootnote4sym">4</a>) oraz zlokalizowane na strychu kościoła. Drugie wejście do świątyni znajdowało się w ścianie bocznej nawy głównej, na zapleczu obecnej wieży-dzwonnicy (zachowane w górnej części do dzisiaj) – zamknięte ostrym łukiem i flankowane po bokach sznurowym ornamentem (ilustracja 9), wskazującym na XV wieczne pochodzenie <a href="#sdfootnote5sym">5</a>.</p>
 </section>
 <section>
   <div class="figure">
@@ -114,68 +114,10 @@ export default {
       clicker: 1,
       allSections: 12
     }
-  },
-  methods: {
-    dodaj() {
-      const timeline = new TimelineLite()
-      this.clicker++;
-      let numberX = this.clicker;
-      let numberXS = numberX -1;
-      let numberPS = 'section:nth-child(' + numberXS + ')';
-      let numberPN = 'section:nth-child(' + numberX + ')';
-      let loader1 = document.querySelector(numberPS)
-      let loader2 = document.querySelector(numberPN)
-      timeline.to(loader1, { y: '-100%', opacity: 0, display: "none"})
-      .from(loader2, 1.6, {display: "block", y: '100%', opacity: 0, })
-      .to(loader2, 1, { display: "block"});
-
-
-
-
-    },
-    odejmij() {
-      this.clicker--;
-    }
   }
 }
 
 </script>
 <style scoped>
-
-@media screen  and (orientation: portrait) {
-  h3 {
-    font-size: 1.4rem;
-    z-index: 44;
-    padding: 10vh 0;
-  }
-  a, ul, ol, p {
-      color: #fff;
-      max-width: 90vw;
-      font-size: 1.2em;
-      padding: 10vh 0;
-      line-height: 1.1em;
-  }
-}
-@media screen  and (orientation: landscape) {
-  h3 {
-    font-size: 2.4rem;
-    position: relative;
-    top: 30vh;
-    z-index: 44;
-    padding-left: 10vw;
-    margin-top: -20vh;
-  }
-  a, ul, ol, p {
-      color: #fff;
-      max-width: 75vw;
-      font-size: 1.6em;
-      overflow: hidden;
-      padding: 10vh 0;
-      line-height: 1.4em;
-  }
-  img.small {
-    width: 40%;
-  }
-}
 
 </style>

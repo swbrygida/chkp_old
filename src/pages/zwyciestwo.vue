@@ -1,7 +1,9 @@
 <template id="">
   <Layout>
     <section>
-  **Wielka Wojna z&nbsp;zakonem krzyżackim w&nbsp;latach 1409 – 1411**
+      <h3>
+        Wielka Wojna z&nbsp;zakonem krzyżackim w&nbsp;latach 1409 – 1411
+      </h3>
   <div class="figure">
   <img src="../assets/fotosy/bitwa.jpg" />
   </div>
@@ -22,21 +24,21 @@
   </ol>
 </section>
 <section>
-  <p><strong>Tło bitwy pod&nbsp;Grunwaldem.</strong></p>
+  <h3>Tło bitwy pod&nbsp;Grunwaldem.</h3>
   <div class="figure">
   <img src="../assets/fotosy/Dwa-nagie-miecze.jpg" />
   </div>
   </section>
 <section>
   <p>6 sierpnia 1409 roku w&nbsp;Malborku wielki mistrz Ulryk von Jungingen nakazał zredagowanie listu skierowanego do&nbsp;króla Polski Władysława II Jagiełły wypowiadającego Polsce wojnę. Początek XV wieku to&nbsp;również okres narastającego konfliktu między zakonem krzyżackim z&nbsp;jednej, a&nbsp;Polską i&nbsp;Litwą z&nbsp;drugiej strony. W&nbsp;1409 roku wybuchło wielkie, antykrzyżackie powstanie na&nbsp;Żmudzi. Strona zakonna oczekiwała, że&nbsp;król Polski, zachowa w&nbsp;tym nowym konflikcie krzyżacko-litewskim, neutralność. Jednak możnowładcy polscy wraz z&nbsp;królem, podjęli zdecydowaną decyzję o&nbsp;nieopuszczaniu Litwy w&nbsp;potrzebie. Tego samego roku zawarto rozejm między Polską, a&nbsp;Krzyżakami, który&nbsp;miał trwać do&nbsp;23 czerwca 1910 roku. 3 lipca wojska polsko-litewskie wyruszyły spod Czerwińska, kierując się bezpośrednio ku granicy krzyżackiej. Rankiem 15 lipca wojska unii jagiellońskiej przybyły na&nbsp;pola wsi Stębarka i&nbsp;Grunwaldu, rozbiły obóz wśród krzaków i&nbsp;gajów. Król wysłuchał w&nbsp;skupieniu dwóch mszy następnie udał się na&nbsp;wzniesienie, by&nbsp;dokonać przeglądu wojska i&nbsp;pasować na&nbsp;rycerzy wielu Polaków. Kiedy już koło południa, miał zacząć bitwę, przybyło doń dwu heroldów. Jeden z&nbsp;nich przyniósł królowi nagi miecz od&nbsp;wielkiego mistrza. Drugi herold, miał taki sam miecz, który&nbsp;wielki marszałek zakonu przekazywał wielkiemu księciu litewskiemu Witoldowi. Obaj dowódcy przyjęli rycerski podarunek, zaś rycerstwo zaśpiewało Bogurodzicę. Sam król, w&nbsp;otoczeniu straży przybocznej nie&nbsp;wziął bezpośredniego udziału w&nbsp;starciu, obserwując rozwój wypadków ze&nbsp;wzgórza, wydając rozkazy przez&nbsp;swych heroldów. W&nbsp;pierwszej fazie bitwy pod&nbsp;Grunwaldem do&nbsp;ataku ruszyło prawe skrzydło litewskie pod&nbsp;dowództwem wielkiego księcia Witolda. W&nbsp;środkowej fazie bitwy Krzyżacy byli w&nbsp;stanie prowadzić jedynie walkę obronną. Wielki mistrz jednak, widząc zbliżającą się klęskę postawił wszystko na&nbsp;jedną kartę. Wprowadził do&nbsp;boju 16 świeżych, odwodowych chorągwi i&nbsp;sam stanął na&nbsp;ich czele. Atak krzyżackiego odwodu nie&nbsp;powiódł się. Po&nbsp;pewnej chwili wahania, kiedy myślano, że&nbsp;wojska te, to&nbsp;wracające z&nbsp;ucieczki oddziały litewskie, armia polska otoczyła krzyżacki odwód i&nbsp;wycięła w&nbsp;pień. To&nbsp;w&nbsp;tej&nbsp;fazie bitwy poległ, z&nbsp;rąk nieznanego z&nbsp;imienia rycerza, wielki mistrz zakonu Ulryk von Jungingen, oraz&nbsp;wszyscy niemal dostojnicy zakonu. W&nbsp;ostatniej fazie bitwy, najkrwawszej, zdobyto krzyżacki obóz wraz ze&nbsp;wszystkimi taborami. Bitwa zakończyła się około godziny 19. Klęska zakonu była zupełna. Na&nbsp;polu bitwy poległa cała nieomal starszyzna zakonna, z&nbsp;wielkim mistrzem i&nbsp;wszystkimi dostojnikami wchodzącymi w&nbsp;skład krzyżackiego „rządu”. 17 lipca wojska unii jagiellońskiej zwinęły obóz spod Grunwaldu i&nbsp;ruszyły na&nbsp;Malbork. Marszem chciano sprowokować mistrza do&nbsp;walnej rozprawy, po&nbsp;czym, po&nbsp;zwycięstwie, zawrzeć korzystny dla Polski i&nbsp;Litwy pokój. Oblężenie nie&nbsp;przyniosło efektów, więc&nbsp;wojska Jagiełły się wycofały. 1 lutego 1411 roku podpisano traktat pokojowy kończący Wielką Wojnę z&nbsp;zakonem krzyżackim. Na&nbsp;mocy jego postanowień wszelkie nieporozumienia miedzy stronami mają zostać zapomniane. Zapewniono także uwolnienie wszystkich jeńców bez&nbsp;okupu. Wszelkie zamki i&nbsp;miasta zajęte podczas wojny powinny zostać zwrócone poprzednim właścicielom, z&nbsp;wyjątkiem Żmudzi, która&nbsp;pozostaje pod&nbsp;panowaniem Władysława II i&nbsp;wielkiego księcia litewskiego Witolda, ale&nbsp;tylko&nbsp;na&nbsp;okres ich życia. Księciu mazowieckiemu Ziemowitowi IV zakon miał zwrócić ziemię zawkrzańską, zaś ziemia dobrzyńska pozostawała pod&nbsp;władzą Królestwa Polskiego. Z&nbsp;kolei pod&nbsp;panowaniem zakonu miało pozostawać nadal Pomorze, ziemia chełmińska i&nbsp;część Kujaw.</p>
-  <p>Opracował:</p>
-  <p>Patryk Kozłowski</p>
-  <p>Muzeum Bitwy pod&nbsp;Grunwaldem w&nbsp;Stębarku</p>
+  <p>Opracował:</br>
+  Patryk Kozłowski</br>
+  Muzeum Bitwy pod&nbsp;Grunwaldem w&nbsp;Stębarku</p>
   </section>
   <section>
-<ol>
-<li><strong>Tło polityczne Wielkiej Wojny z&nbsp;zakonem krzyżackim (1385-1409).</strong></li>
-</ol>
+
+<h3>Tło polityczne Wielkiej Wojny z&nbsp;zakonem krzyżackim (1385-1409).</h3>
+
 <div class="figure">
 <img src="../assets/fotosy/Kosciol-foto-35.jpg" />
 </div>
@@ -46,7 +48,7 @@
 <p>6 sierpnia 1409 roku w&nbsp;Malborku wielki mistrz Ulryk von Jungingen nakazał zredagowanie listu skierowanego do&nbsp;króla Polski Władysława II Jagiełły wypowiadającego Polsce wojnę. List wielkiego mistrza, stał się początkiem Wielkiej Wojny z&nbsp;zakonem krzyżackim i&nbsp;był konsekwencją nieuchronnego konfliktu, który&nbsp;narastał między Polską a&nbsp;zakonem od&nbsp;końca XIV stulecia. Jego początkiem była zawarta w&nbsp;latach 1385 – 1386 unia polsko-litewska. Początek XV wieku to&nbsp;okres narastającego konfliktu między zakonem krzyżackim z&nbsp;jednej, a&nbsp;Polską i&nbsp;Litwą z&nbsp;drugiej strony. Krzyżacy, chcąc utrzymać swój tytuł prawny do&nbsp;dalszej ekspansji na&nbsp;Litwę oraz&nbsp;pomoc rycerstwa zachodnioeuropejskiego lansowali tezę o&nbsp;pozorności chrztu Litwy i&nbsp;wzywali krzyżowców z&nbsp;Europy do&nbsp;dalszego zasilania ich sił zbrojnych. Z&nbsp;kolei wśród polskich elit politycznych narastało przekonanie o&nbsp;konieczności walnej rozprawy z&nbsp;groźnym przeciwnikiem. W&nbsp;1409 roku wybuchło wielkie, antykrzyżackie powstanie na&nbsp;Żmudzi. Strona zakonna oczekiwała, że&nbsp;król Polski, zachowa w&nbsp;tym nowym konflikcie krzyżacko-litewskim, neutralność. Jednak możnowładcy polscy wraz z&nbsp;królem, podjęli zdecydowaną decyzję o&nbsp;nieopuszczaniu Litwy w&nbsp;potrzebie.</p>
 </section>
 <section>
-<p><strong>Pierwsza faza Wielkiej Wojny. Oręż i&nbsp;dyplomacja.</strong></p>
+<h3>Pierwsza faza Wielkiej Wojny. Oręż i&nbsp;dyplomacja.</h3>
 <div class="figure">
 <img src="../assets/fotosy/Popiersie-krola-Wladyslawa-Jagielly-1.jpg" />
 </div>
@@ -65,7 +67,7 @@
 <p>W&nbsp;pierwszej fazie bitwy pod&nbsp;Grunwaldem do&nbsp;ataku ruszyło prawe skrzydło litewskie pod&nbsp;dowództwem wielkiego księcia Witolda. To&nbsp;w&nbsp;tej&nbsp;fazie bitwy dwa razy odezwała się krzyżacka artyleria, która&nbsp;jednak nie&nbsp;uczyniła atakującym żadnej szkody. Kontrnatarcie krzyżackie sprawiło jednak, że&nbsp;po&nbsp;około godzinie walki prawe skrzydło zaczęło się chwiać a&nbsp;następnie rzuciło się do&nbsp;ucieczki. Istnieją jednak poważne przesłanki za&nbsp;uznaniem, że&nbsp;ucieczka ta mogła być częścią planu taktycznego, swoistym manewrem zwrotnej konnicy litewsko-tatarskiej, która&nbsp;miała za&nbsp;zadanie odciągnąć prawe skrzydło krzyżackie daleko od&nbsp;pola bitwy, co istotnie się stało. Dzięki tej&nbsp;ucieczce, bądź zręcznemu manewrowi, rozerwała się zwartość całego frontu wojsk zakonnych. Litwini ponieśli jednak duże straty. W&nbsp;tym czasie zażarta bitwa trwała już na&nbsp;całej szerokości frontu. Niewątpliwie strona polska przeżyła wówczas swój największy kryzys. Pod&nbsp;naporem sił krzyżackich upadł nawet chorąży Marcin z&nbsp;Wrocimowic, dzierżący wielką chorągiew króla polskiego. Sama chorągiew jednak została szybko odbita przez&nbsp;stronę polską. Pomimo powrotu ścigającego Litwinów prawego skrzydła armii zakonnej i&nbsp;włączenia się go do&nbsp;bitwy, strona polska zaczęła zdecydowanie przeważać. W&nbsp;tej&nbsp;fazie bitwy Krzyżacy byli już w&nbsp;stanie prowadzić jedynie walkę obronną. Wielki mistrz jednak, widząc zbliżającą się klęskę postawił wszystko na&nbsp;jedną kartę. Wprowadził do&nbsp;boju 16 świeżych, odwodowych chorągwi i&nbsp;sam stanął na&nbsp;ich czele. Atak krzyżackiego odwodu nie&nbsp;powiódł się. Po&nbsp;pewnej chwili wahania, kiedy myślano, że&nbsp;wojska te, to&nbsp;wracające z&nbsp;ucieczki oddziały litewskie, armia polska otoczyła krzyżacki odwód i&nbsp;wycięła w&nbsp;pień. To&nbsp;w&nbsp;tej&nbsp;fazie bitwy poległ, z&nbsp;rąk nieznanego z&nbsp;imienia rycerza, wielki mistrz zakonu Ulryk von Jungingen, oraz&nbsp;wszyscy niemal dostojnicy zakonu. W&nbsp;ostatniej fazie bitwy, najkrwawszej, zdobyto krzyżacki obóz wraz ze&nbsp;wszystkimi taborami. Bitwa zakończyła się około godziny 19. Klęska zakonu była zupełna. Na&nbsp;polu bitwy poległa cała nieomal starszyzna zakonna, z&nbsp;wielkim mistrzem i&nbsp;wszystkimi dostojnikami wchodzącymi w&nbsp;skład krzyżackiego „rządu”.</p>
 </section>
 <section>
-<p><strong>Po&nbsp;Grunwaldzie. I&nbsp;pokój toruński.</strong></p>
+<h3>Po&nbsp;Grunwaldzie. I&nbsp;pokój toruński.</h3>
 <div class="figure">
 <img src="../assets/fotosy/Tablica-nr-2.jpg" />
 </div>
@@ -74,9 +76,9 @@
 <p>17 lipca wojska unii jagiellońskiej zwinęły obóz spod Grunwaldu i&nbsp;ruszyły na&nbsp;Malbork. Marszem chciano sprowokować mistrza do&nbsp;walnej rozprawy, po&nbsp;czym, po&nbsp;zwycięstwie, zawrzeć korzystny dla Polski i&nbsp;Litwy pokój. Armia Jagiełły dotarła pod&nbsp;Malbork 25 lipca. Oblężenie nie&nbsp;przyniosło spodziewanych efektów, dlatego też 19 września zdecydowano się na&nbsp;wycofanie i&nbsp;odejście spod Malborka. Polakom udało się jeszcze podczas tej&nbsp;kampanii, 10 października pod&nbsp;Koronowem, rozbić idące Krzyżakom na&nbsp;pomoc posiłki z&nbsp;Rzeszy. Obrońca malborskiego zamku, Henryk von Plauen, 9 listopada 1410 roku został wybrany wielkim mistrzem w&nbsp;miejsce poległego Ulryka von Jungingena. 1 lutego 1411 roku podpisano traktat pokojowy kończący Wielką Wojnę z&nbsp;zakonem krzyżackim. Na&nbsp;mocy jego postanowień wszelkie nieporozumienia miedzy stronami mają zostać zapomniane. Zapewniono także uwolnienie wszystkich jeńców bez&nbsp;okupu. Wszelkie zamki i&nbsp;miasta zajęte podczas wojny powinny zostać zwrócone poprzednim właścicielom, z&nbsp;wyjątkiem Żmudzi, która&nbsp;pozostaje pod&nbsp;panowaniem Władysława II i&nbsp;wielkiego księcia litewskiego Witolda, ale&nbsp;tylko&nbsp;na&nbsp;okres ich życia. Księciu mazowieckiemu Ziemowitowi IV zakon miał zwrócić ziemię zawkrzańską, zaś ziemia dobrzyńska pozostawała pod&nbsp;władzą Królestwa Polskiego. Z&nbsp;kolei pod&nbsp;panowaniem zakonu miało pozostawać nadal Pomorze, ziemia chełmińska i&nbsp;część Kujaw.</p>
 </section>
 <section >
-<ol start="3">
-<li><strong>Pierwsza faza Wielkiej Wojny. Oręż i&nbsp;dyplomacja.</strong></li>
-</ol>
+
+<h3>Pierwsza faza Wielkiej Wojny. Oręż i&nbsp;dyplomacja.</h3>
+
 <div class="figure">
 <img src="../assets/fotosy/Popiersie-krola-Wladyslawa-Jagielly-2.jpg" />
 </div>
@@ -87,9 +89,9 @@
 <p>Nikt tak&nbsp;naprawdę nie&nbsp;wierzył w&nbsp;możliwość polubownego załatwienia sporu między zakonem a&nbsp;Polską w&nbsp;wyniku rozjemstwa króla czeskiego. Obie strony jednak chciały dać sobie więcej czasu, by&nbsp;opracować plany strategiczne kampanii roku 1410 oraz&nbsp;dokonać zbrojeń, wykorzystując niemal cały swój potencjał militarny i&nbsp;gospodarczy. Trzeba tu przyznać, że&nbsp;gospodarka zakonu w&nbsp;roku 1409 przedstawiała dużo lepszy obraz, niż gospodarka unii polsko-litewskiej, czy&nbsp;też nawet przeciętna gospodarka każdego ówczesnego państwa europejskiego. Z&nbsp;kolei unia polsko-litewska dysponowała znacznie większymi zasobami ludzkimi, co zresztą widoczne było w&nbsp;dysproporcji sił na&nbsp;polach Grunwaldu. Obie strony nie&nbsp;zaniedbywały też czasu rozejmu do&nbsp;przygotowań dyplomatycznych pod&nbsp;przyszłą kampanię. Akcja propagandowa Krzyżaków tradycyjnie już, rzec by&nbsp;można, przedstawiała wojnę z&nbsp;Polska i&nbsp;Litwą w&nbsp;kategoriach krucjaty przeciwko poganom. Udało się im także przekupienie Zygmunta Luksemburskiego, przyrodniego brata króla Wacława II, któremu&nbsp;Krzyżacy podwyższyli sumy zastawne za&nbsp;Nową Marchię o&nbsp;40000 guldenów. W&nbsp;tajnym układzie zobowiązywał się Luksemburczyk do&nbsp;dywersyjnego uderzenia na&nbsp;Polskę od&nbsp;południa. Zakon pozyskał także sojuszników w&nbsp;osobach książąt zachodniopomorskich Świętobora i&nbsp;Bogusława. Także książę śląski Konrad Biały wsparł orężnie sprawę zakonu. Pieniędzmi nie&nbsp;pogardził wreszcie sam rozjemca, król czeski Wacław II, który&nbsp;15 lutego 1410 roku ogłosił wyrok rozjemczy. Na&nbsp;jego mocy Krzyżacy nie&nbsp;tylko&nbsp;mogli zatrzymać Żmudź, ziemię dobrzyńską, ale&nbsp;mogli sobie rościć pretensje także do&nbsp;Litwy. Wobec takiego orzeczenia króla Wacława II, Polacy nie&nbsp;przyjęli, co oczywiste, wyroku, szykując się na&nbsp;wiosnę do&nbsp;ciężkiej kampanii wojennej.</p>
 </section>
 <section>
-<ol start="4">
-<li><strong>Kampania wojenna roku 1410. Bitwa pod&nbsp;Grunwaldem.</strong></li>
-</ol>
+
+<h3>Kampania wojenna roku 1410. Bitwa pod&nbsp;Grunwaldem.</h3>
+
 <div class="figure">
 <img src="../assets/fotosy/Pomnik-pod-Grunwaldem.jpg" />
 </div>
@@ -130,9 +132,9 @@
 <p>Klęska zakonu była zupełna. Na&nbsp;polu bitwy poległa cała nieomal starszyzna zakonna,z wielkim mistrzem i&nbsp;wszystkimi dostojnikami wchodzącymi w&nbsp;skład krzyżackiego „rządu”. Ocalał jedynie wielki szpitalnik Werner von Tettingen. Zgodnie ze&nbsp;średniowieczną tradycją, król Władysław pozostał na&nbsp;polu bitwy do&nbsp;17go lipca, by&nbsp;zaznaczyć swoje zupełne zwycięstwo. Zapewne czas ten wykorzystano na&nbsp;pochowanie zabitych, zebranie łupów, wreszcie na&nbsp;odpoczynek. Ciało wielkiego mistrza i&nbsp;najwyższych dostojników król nakazał obmyć, okryć purpurą i&nbsp;odesłać do&nbsp;Malborka.</p>
 </section>
 <section>
-<ol start="5">
-<li><strong>Po&nbsp;Grunwaldzie. I&nbsp;pokój toruński.</strong></li>
-</ol>
+
+<h3>Po&nbsp;Grunwaldzie. I&nbsp;pokój toruński.</h3>
+
 <div class="figure">
 <img src="../assets/fotosy/Tablica-nr-2-1.jpg" />
 </div>
@@ -210,6 +212,8 @@ mounted() {
 }
 
 </script>
-<style >
-
+<style scoped>
+  ol li {
+    margin: 3vh 0;
+  }
 </style>
