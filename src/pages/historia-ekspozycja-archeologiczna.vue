@@ -2,33 +2,33 @@
   <Layout>
 
     <section>
-    <p><strong>EKSPOZYCJA ARCHEOLOGICZNA W KRYPTACH NAWY GŁÓWNEJ:</strong></p>
-    <p><img src="../assets/fotosy/Ekspozycja-archeologiczna-4.jpg" alt=""></p>
+    <h3>EKSPOZYCJA ARCHEOLOGICZNA W KRYPTACH NAWY GŁÓWNEJ:</h3>
+    <div class="figure"><img src="../assets/fotosy/Ekspozycja-archeologiczna-4.jpg" alt=""></div>
   </section>
     <section>
     <p>W czasie prac renowacyjnych dzięki badaniom georadarowym, stwierdzono pod posadzką kościoła dziewięć krypt. Cztery z nich można dziś oglądać. Dwie dzięki specjalnym przeszkleniom (zlokalizowane są w nawie bocznej i kaplicy Grunwaldzkiej) oraz dwie w nawie głównej do których można wejść.</p>
   </section>
     <section>
-    <p><img src="../assets/fotosy/Ekspozycja-archeologicza-306.jpg" alt=""></p>
+    <div class="figure"><img src="../assets/fotosy/Ekspozycja-archeologicza-306.jpg" alt=""></div>
   </section>
     <section>
-    <p><img src="../assets/fotosy/Ekspozycja-archeologiczna-307.jpg" alt=""></p>
+    <div class="figure"><img src="../assets/fotosy/Ekspozycja-archeologiczna-307.jpg" alt=""></div>
   </section>
     <section>
     <p>Pierwsza krypta obecnie rozparta jest pomiędzy fundamentami łuku tęczowego, wzniesionego z białego kamienia. Po prawej stronie stoją zrekonstruowane trumny z epitafiami Gabryeli Łucji Krukowiec (Wizytki) i ostatniej Ksieni Zakonu Brygidek Doroty Moińskiej (Brygidki) która przeżyła 101 lat! Nowo wybudowane przejście prowadzi do kolejnej krypty. To największa sala podziemna, gdzie składano zmarłych. Obecnie znajduje się tu ekspozycja prezentująca dzieje świątyni oraz pochowanych w niej sióstr zakonnych.</p>
   </section>
     <section>
-    <p><img src="../assets/fotosy/Ekspozycja-archeologiczna-316.jpg" alt=""></p>
+    <div class="figure"><img src="../assets/fotosy/Ekspozycja-archeologiczna-316.jpg" alt=""></div>
     <p>Po lewej stronie ustawione są trzy tablice szklane. Na pierwszej z nich znalazły się epitafia z trumien wydobytych w czasie prac archeologicznych. Te, które zachowały się w pełnym brzmieniu, a pierwotnie były umieszczane na bokach trumien sióstr Wizytek przytoczono z zachowaniem stylu pisma, oryginalnego brzmienia a nawet błędów ortograficznych i literowych. Należy zwrócić uwagę, że wszystkie napisy żałobne Wizytek zostały skonstruowane w myśl tego samego schematu: na początku pada zwrot <em>ta ukochana/ kochana siostra</em>, po czym podawane jest imię i nazwisko zmarłej, a następnie data śmierci, zaczynająca się od słów <em>dokończyła/dokonała biegu życia swego</em>. Dalej umieszczony jest zwrot <em>profesyi świętej</em> oznaczającej ilość lat spędzonych w zakonie. Epitafia kończą się zawsze sformułowaniem <em>zostawiła nam wonność cnót swoich</em>. Od tej reguły odbiega pierwsze epitafium – Doroty Moińskiej, ostatniej ksieni, przełożonej zakonu brygidek, który zarządzał obiektem przez ponad 400 lat.</p>
   </section>
     <section>
     <p>Na tablicy po prawej stronie umieszczono epitafia i ich fragmenty, które nie zachowały się w pełnej formie.</p>
-    <p><img src="../assets/fotosy/Ekspozycja-archeologiczna-315.jpg" alt=""></p>
+    <div class="figure"><img src="../assets/fotosy/Ekspozycja-archeologiczna-315.jpg" alt=""></div>
   </section>
     <section>
     <p>Na środkowej tablicy zaprezentowano schematyczny zapis funkcji i dziejów kościoła. Kolor <strong>jasnoniebieski</strong> oznacza przebieg współczesnych murów kościoła i rektoratu. Spod niego wyłania się <strong>granatowy</strong> obrys świątyni z pierwszej fazy czyli z drugiej połowy XIV wieku, a więc z czasów poprzedzających fundację Władysława Jagiełły. Na północ od korpusu kościoła, wykreślony zostały przebieg murów ogrodzeniowych. Ten, bardziej po lewo, wyznacza zasięg własności zakonnej i cmentarza. Po środku, od kaplicy Grunwaldzkiej, ku górze wybiega mur oddzielający przestrzeń grzebalną od ogrodów męskiej części zgromadzenia św. Brygidy. W prawym, górnym narożniku tablicy, pod murami rektoratu kolorem <strong>ciemnozielonym</strong> oznaczono fragment podpiwniczenia, które wiązać można z gotycką siedzibą mnichów zakonu Św. Brygidy.</p>
     <p>We wnętrzu kościoła wykreślono różnobarwne figury. <strong>Czerwone</strong> prostokątyoznaczają zasięg krypt, gdzie prowadzono eksplorację pochówków, zaś <strong>pomarańczowe</strong> ­ informują o lokalizacji innych krypt, które zostały zinwentaryzowane. Do tego należy dołączyć lokalizację tumb grobowych – oznaczonych jako <strong>fioletowe</strong> prostokąty. W wieży, nawie głównej i bocznej <strong>brązowymi</strong> krzyżykami wyrysowany został zasięg grobów ziemnych.</p>
-    <p><img src="../assets/fotosy/Ekspozycja-archeologiczna-320.jpg" alt=""></p>
+    <div class="figure"><img src="../assets/fotosy/Ekspozycja-archeologiczna-320.jpg" alt=""></div>
   </section>
     <section>
     <p>W gablotach umieszczone zostały dewocjonalia – medaliki i krzyżyki. Wszystkie zostały znalezione w kryptach. Nad każdym zabytkiem umieszczonym w gablocie znajduje się zdjęcie awersu i rewersu.</p>
@@ -38,17 +38,17 @@
     <p>W ostatniej gablocie umieszczono krzyżyki i ich ozdobne fragmenty oraz postacie Chrystusa. Wśród tych zabytków spotkamy formy wykonane z popularnych i tanich metali – miedzi oraz brązu. Obok nich połyskują egzemplarze odlane ze srebra. Najbardziej niezwykłym przedmiotem jest krzyż z podwójnym ramieniem – patriarchalny, nazywany także <em>caravacca</em> od miasta o tej samej nazwie w południowo-wschodniej Hiszpanii.</p>
   </section>
     <section>
-    <p><img src="../assets/fotosy/Ekspozycja-archeologiczna-309.jpg" alt=""></p>
+    <div class="figure"><img src="../assets/fotosy/Ekspozycja-archeologiczna-309.jpg" alt=""></div>
   </section>
     <section>
     <p>Dalej, pod łukiem sklepienia, za przeszkleniem umieszczono zrekonstruowane habity, w których pochowane zostały siostry Brygidki. Na głowie, zamiast welonu, znajduje się typowa tylko dla tego zgromadzenia korona. Same stroje są bardzo zgrzebne i niesłychanie mocno znoszone. Przyglądając się dokładniej dostrzeżemy jak wiele razy były one łatane. Fragmenty oryginalnych habitów zostały poddane konserwacji i umieszczone na współczesnym materiale. Na szyi jednego z manekinów zawieszony jest drewniany krzyżyk z postacią Chrystusa.</p>
   </section>
     <section>
-    <p><img src="../assets/fotosy/Ekspozycja-archeologiczna-317.jpg" alt=""></p>
+    <div class="figure"><img src="../assets/fotosy/Ekspozycja-archeologiczna-317.jpg" alt=""></div>
     <p>W kolejnej gablocie, po lewej stronie umieszczono wianek grobowy wkładany na głowę osobom, które zmarły jako niewinne. Ten egzemplarz pochodzi z grobu młodej dziewczyny, wykonany jest ze srebrnych drutów i wstęg. Pierwotnie przyozdobiony był w bardzo filigranowe kwiatki, ale nie wytrzymały one próby czasu, dlatego do rekonstrukcji wykorzystano współcześnie wykonane płatki.</p>
   </section>
     <section>
-    <p><img src="../assets/fotosy/Ekspozycja-archeologiczna-318.jpg" alt=""></p>
+    <div class="figure"><img src="../assets/fotosy/Ekspozycja-archeologiczna-318.jpg" alt=""></div>
     <p>W ostatniej gablocie zaprezentowano przedmioty wykonane ze skóry i metalu. Wśród nich najwięcej pasów i klamer. Obok na podwyższeniu umieszczone zostały zawieszki mogące tkwić przy księgach. Dalej jest obrączka srebrna z grawerowaną inskrypcją, mosiężne okucie pasa z gotyckim napisem. Warto zwrócić uwagę na pieczęć herbową w formie niewielkiego stempla.</p>
   </section>
     <section>

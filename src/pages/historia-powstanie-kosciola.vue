@@ -2,15 +2,15 @@
   <Layout>
 
 <section>
-    <p><img src="../assets/fotosy/model-kaplicy-1.jpg" alt=""></p>
-    <p><strong>POWSTANIE ŚWIĄTYNI</strong></p>
+  <h3>POWSTANIE ŚWIĄTYNI</h3>
+    <div class="figure"><img src="../assets/fotosy/model-kaplicy-1.jpg"alt=""></div>
     <p>Pierwszą świątynię (kaplica pw. NMP i św. Barbary i św. Zofii) zbudował w 1396 wójt lubelski Wawrzyniec. Powstała na gruncie ofiarowanym przez wdowę o imieniu Woyczecha. Przy końcu XIV wieku, wdowa przekazała miastu swój majątek (trzy łany pola i dom z zabudowaniami) pod warunkiem wybudowania tu kaplicy. Fundację świątyni zatwierdził i kaplicę poświęcił bp krakowski Piotr Wysz. Posługę duszpasterską pełnił zwykle jeden kapłan, w ówczesnej terminologii zw. prebendarzem.</p>
   </section>
   <section>
-    <p><img src="../assets/fotosy/model-kaplicy-1-1.jpg" alt=""></p>
-    <p><img src="../assets/fotosy/model-kaplicy-2.jpg" alt=""></p>
-    <p><img src="../assets/fotosy/model-kaplicy-3.jpg" alt=""></p>
-    <p><img src="../assets/fotosy/model-kaplicy-4.jpg" alt=""></p>
+    <div class="figure"><img src="../assets/fotosy/model-kaplicy-1-1.jpg"alt=""></div>
+    <div class="figure"><img src="../assets/fotosy/model-kaplicy-2.jpg"alt=""></div>
+    <div class="figure"><img src="../assets/fotosy/model-kaplicy-3.jpg"alt=""></div>
+    <div class="figure"><img src="../assets/fotosy/model-kaplicy-4.jpg"alt=""></div>
   </section>
     <section>
     <p>Była to świątynia złożona z prezbiterium, zakrystii, korpusu nawy i kaplicy. Według Jerzego Siennickiego kaplica mogła istnieć w miejscu później wzniesionej wieży. Zdaniem ks. Wadowskiego mieściła się na terenie kaplicy północnej pw. Najświętszej Maryi Panny.</p>

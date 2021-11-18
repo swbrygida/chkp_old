@@ -2,10 +2,11 @@
   <Layout>
     <section>
 
-  <p>„Kościół i Ojczyzna – te dwa pojęcia w tysiącletniej tradycji polskiej zrosły się w nierozerwalną całość”. św. Jan Paweł II</p>
+  <p class="big">„Kościół i Ojczyzna – te dwa pojęcia w tysiącletniej tradycji polskiej zrosły się w nierozerwalną całość”.
+    <br>św. Jan Paweł II</p>
 </section>
 <section>
-  <p><strong>KOŚCIÓŁ POBRYGIDKOWSKI – LUBELSKIE SANKTUARIUM PAMIĘCI NARODOWEJ</strong></p>
+  <h3>KOŚCIÓŁ POBRYGIDKOWSKI – LUBELSKIE SANKTUARIUM PAMIĘCI NARODOWEJ</h3>
   <div class="figure">
   <img src="../assets/fotosy/f5.jpg" />
   </div>
@@ -136,7 +137,7 @@
   <img src="../assets/fotosy/Uroczystosci-patriotyczne.jpg" />
   </div>
   <p>Do tradycyjnych obchodów weszły też kwietniowe rocznice zbrodni katyńskiej i 17 września – agresji sowieckiej na Polskę oraz lutowe rocznice pierwszej masowej wywózki na Sybir, upamiętnianej przez Związek Sybiraków, Oddział Lublin i Stowarzyszenie Polskich Kombatantów w Kraju.</p>
-  Uroczysty charakter tych uroczystości religijno – patriotycznych stanowiących dowód pamięci o tragicznej przeszłości historycznej podkreślały liczne poczty sztandarowe.
+  Uroczysty charakter tych uroczystości religijno – patriotycznych stanowiących dowód pamięci o tragicznej przeszłości historycznej podkreślały liczne poczty sztandarowe.</p>
   </section>
 
 
@@ -181,4 +182,7 @@
 
 </script>
 <style scoped>
+p.big {
+  font-size: 2.4rem;
+}
 </style>

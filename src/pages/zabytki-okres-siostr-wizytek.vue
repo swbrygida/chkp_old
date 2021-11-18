@@ -2,13 +2,13 @@
   <Layout>
 
     <section>
-    <p><img src="../assets/fotosy/Serce-2.jpg" alt=""></p>
+    <div class="figure"><img src="../assets/fotosy/Serce-2.jpg" alt=""></div>
   </section>
   <section>
     <p>W końcu XVIII wieku w wyniku rozbiorów klasztor Brygidek utracił na rzecz zaborów znaczne dobra, potrzebne na jego utrzymanie. Trudna sytuacja materialna a także polityka nowych władz państwowych niekorzystnie wpłynęła na rozwój życia zakonnego.</p>
   </section>
   <section>
-    <p><img src="../assets/fotosy/Wizytki-1.jpg" alt=""></p>
+    <div class="figure"><img src="../assets/fotosy/Wizytki-1.jpg" alt=""></div>
   </section>
   <section>
     <p>W 1835 roku SS Wizytki zostały przez rząd usunięte z własnych budynków i ostatecznie trafiły do klasztoru zajmowanego przez SS Brygidki.</p>
@@ -21,20 +21,20 @@
     <p>Z tego okresu pochodzą zabytki:</p>
   </section>
   <section>
-    <p>1. Ołtarze i ambona w stylu francuskim</p>
-    <p><img src="../assets/fotosy/Wizytki-4.jpg" alt=""></p>
+    <h3>1. Ołtarze i ambona w stylu francuskim</h3>
+    <div class="figure"><img src="../assets/fotosy/Wizytki-4.jpg" alt=""></div>
   </section>
   <section>
-    <p>2. Obraz z przedstawieniem św. Franciszka Salezego</p>
-    <p><img src="../assets/fotosy/Wizytki-2.jpg" alt=""></p>
+    <h3>2. Obraz z przedstawieniem św. Franciszka Salezego</h3>
+    <div class="figure"><img src="../assets/fotosy/Wizytki-2.jpg" alt=""></div>
   </section>
   <section>
-    <p>3. Obraz ukazujący św. Józefa z Dzieciątkiem</p>
-    <p><img src="../assets/fotosy/Wizytki-3.jpg" alt=""></p>
+    <h3>3. Obraz ukazujący św. Józefa z Dzieciątkiem</h3>
+    <div class="figure"><img src="../assets/fotosy/Wizytki-3.jpg" alt=""></div>
   </section>
   <section>
-    <p>4. Obrazu z przedstawieniem św. Małgorzaty Alacoque</p>
-    <p><img src="../assets/fotosy/Malgorzata.jpg" alt=""></p>
+    <h3>4. Obrazu z przedstawieniem św. Małgorzaty Alacoque</h3>
+    <div class="figure"><img src="../assets/fotosy/Malgorzata.jpg" alt=""></div>
   </section>
   <section>
     <p>Wizytki przebywały w klasztorze do roku 1882, kiedy to zostały przeniesione do Warszawy. Z chwilą usunięcia wizytek z zabudowań klasztoru kościół Wniebowzięcia NMP przeszedł w zarząd duchowieństwa diecezjalnego. Skrawek ogrodu od strony północnej kościoła, wraz z chórem wizytek przebudowanym z drugiej zakrystii, oddano na użytek księdza, służby kościelnej. Natomiast gmach klasztoru przeszedł na skarb państwa, który przeznaczył go na internat gimnazjum męskiego duchowieństwa prawosławnego, skład wojskowy i dla osób prywatnych.</p>
@@ -42,19 +42,19 @@
   </section>
   <section>
     <p><strong>1.</strong> W roku 1855 wizytki usunęły XVII i XVIII- wieczne pobrygidkowskie ołtarze i ambonę, pozostawiając jedynie stalle w prezbiterium. W ich miejsce wstawiły XVIII – wieczne ołtarze, odzyskane ze swojego dawnego kościoła, pełniącego wówczas funkcję cerkwi prawosławnej. Ołtarz główny i ambonę z dawnego kościoła wizytek sprowadzono dopiero w roku 1861, a obraz z przedstawieniem św. Brygidy, wyjęty z poprzedniego ołtarza, został umieszczony na ścianie prezbiterium. O wprowadzonym przez siostry wizytki wyposażeniu wypowiedział się ks. Jana Wadowski: <em>„Ołtarze i ambona w bardzo złym smaku francuskim zeszpeciły kościół. Budową swą zbyt rozwinięte, przepełnione figurami w pozach niesmacznych, były czymś obcym w kościele”</em>. Z wymienionych obiektów żaden nie zachował się na stanie kościoła do dzisiaj, z wyjątkiem pojedynczych obrazów ołtarzowych.</p>
-    <p><img src="../assets/fotosy/Wizytki-4-1.jpg" alt=""></p>
+    <div class="figure"><img src="../assets/fotosy/Wizytki-4-1.jpg" alt=""></div>
   </section>
   <section>
     <p><strong>2.</strong> Na pograniczu funkcjonowania dwóch klasztorów brygidek i wizytek powstał obraz z przedstawieniem św. Franciszka Salezego, datowany na przełom XVIII i XIX stulecia. Niewątpliwie powstanie obrazu należy przypisać działalności Wizytkek, gdyż święty był współzałożycielem zakonu sióstr Nawiedzenia Najświętszej Marii Panny, czyli wizytek, a jego grób znajduje się w ich macierzystym klasztorze w Annecy. Święty na obrazie został ukazany w chwili natchnienia od Ducha Świętego, u jego stóp po bokach anioły trzymają atrybuty i oznaki władzy biskupiej. Wielce prawdopodobne jest, że obraz został przyniesiony z poprzedniego założenia wizytek do kościoła pobrygidkowskiego i zapewne był obrazem ołtarzowym (być może w ołtarzu głównym). Konserwacja obrazu potwierdziła jego powstanie w wieku XVIII.</p>
-    <p><img src="../assets/fotosy/Wizytki-2-1.jpg" alt=""></p>
+    <div class="figure"><img src="../assets/fotosy/Wizytki-2-1.jpg" alt=""></div>
   </section>
   <section>
     <p><strong>3.</strong> Ołtarzowym przedstawieniem mógł być obraz ukazujący św. Józefa z Dzieciątkiem, datowany na połowę XVIII wieku. Postać świętego przedstawiona w kontakcie wzrokowym z Małym Jezusem, trzymanym w ramionach, ukazana została w wejściu do wnętrza architektonicznego, z rozpościerającym się za nim ogrodem z drzewami na pierwszym planie. Mniejsze pod względem wielkości przedstawienie mogło znajdować się w ołtarzu bocznym.</p>
-    <p><img src="../assets/fotosy/Wizytki-3-3.jpg" alt=""></p>
+    <div class="figure"><img src="../assets/fotosy/Wizytki-3-3.jpg" alt=""></div>
   </section>
   <section>
     <p><strong>4.</strong> Obraz św. Franciszka Salezego, wielkością i kształtem jest zbliżony do obrazu z przedstawieniem św. Małgorzaty Alacoque, kolejnej świętej związanej z zakonem wizytek. Jej największą zasługą jest dzieło rozpowszechnienia w całym Kościele nabożeństwa do Najświętszego Serca Jezusowego. Dziełu temu towarzyszyły cztery wizje, jakie miała Małgorzata, w trakcie których otrzymała od samego Chrystusa, okazującego jej płomienne serce, polecenie ustanowienia kultu Najświętszego Serca. W takim ujęciu – okazania płomiennego serca – została przedstawiona na obrazie z kościoła lubelskiego. Obraz został datowany na pocz. XX wieku, co może sugerować że powstał nie z inicjatywy wizytek ale kolejnego właściciela. Obraz posiada trójdzielne zakończenie odpowiadające wnęce obecnego ołtarza głównego.</p>
-    <p><img src="../assets/fotosy/Malgorzata-1.jpg" alt=""></p>
+    <div class="figure"><img src="../assets/fotosy/Malgorzata-1.jpg" alt=""></div>
   </section>
 
 

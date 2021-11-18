@@ -3,7 +3,7 @@
 
 
 <section>
-    <p><img src="../assets/fotosy/Kosciol-Pobrygidkowski.jpg" alt=""></p>
+    <div class="figure"><img src="../assets/fotosy/Kosciol-Pobrygidkowski.jpg"alt=""></div>
   </section>
     <section>
     <p>Wielka renowacja została przeprowadzona w latach 2011-12 w ramach projektu pn. „Renowacja pobrygidkowskiego zespołu klasztornego w Śródmieściu miasta Lublina”, który został wpisany na listę podstawową Indykatywnego Wykazu Indywidualnych Projektów Kluczowych Regionalnego Programu Operacyjnego województwa lubelskiego na lata 2007-2013.</p>
@@ -26,7 +26,7 @@
     </ul>
   </section>
     <section>
-    <p><img src="../assets/fotosy/Kosciol-Pobrygidkowski-wnetrze.jpg" alt=""></p>
+    <div class="figure"><img src="../assets/fotosy/Kosciol-Pobrygidkowski-wnetrze.jpg"alt=""></div>
     <p>W związku z realizacją projektu pn. Renowacja zespołu pobrygidkowskiego śródmieściu miasta Lublina, zostały wprowadzone w zabytkowym obiekcie nowe funkcje: edukacyjne, kulturalne i turystyczne. Utworzono: kaplicę grunwaldzką, sanktuarium św. Brygidy, Lubelskie Sanktuarium Pamięci Narodowej oraz ekspozycje historyczna, numizmatyczna i archeologiczna w wieży kościoła z chórem i kryptach.</p>
   </section>
   <section>
@@ -40,22 +40,22 @@
   </section>
     <section>
     <p><strong>– Kaplica Grunwaldzka</strong> /boczna kaplica św. Judy Tadeusza/ z popiersiem króla Władysława Jagiełły z 1910 r., z obrazem Kazimierza Jagiellończyka i gotycką kryptą – to żywa lekcja historii, gdyż pamięć o przeszłości uczy pokory i wdzięczności, wobec tych co odeszli oraz odpowiedzialności wobec przyszłych pokoleń.</p>
-    <p><img src="../assets/fotosy/Kaplica-grunwaldzka-oltarz-sw.-Judy-Tadeusz.jpg" alt=""></p>
-    <p><img src="../assets/fotosy/Kaplica-grunwaldzka-1.jpg" alt=""></p>
+    <div class="figure"><img src="../assets/fotosy/Kaplica-grunwaldzka-oltarz-sw.-Judy-Tadeusz.jpg"alt=""></div>
+    <div class="figure"><img src="../assets/fotosy/Kaplica-grunwaldzka-1.jpg"alt=""></div>
   </section>
     <section>
     <p><strong>– Sanktuarium św. Brygidy</strong> /prezbiterium i nawa głów­na/ z obrazem św. Brygidy, malowanym na desce w XV w., cyklem obrazów z życia współpatronki Europy, które są cennymi pamiąt­kami wraz z kryptami i ekspozycją starych murów kaplicy wskazują na wartości ewangeliczne jako funda­ment codziennego życia.</p>
-    <p><img src="../assets/fotosy/Sanktuarium-sw.-Brygidy.jpg" alt=""></p>
+    <div class="figure"><img src="../assets/fotosy/Sanktuarium-sw.-Brygidy.jpg"alt=""></div>
   </section>
     <section>
     <p><strong>– Lubelskie Sanktuarium Pamięci</strong> <strong>Narodowej</strong> /nawa boczna, chór i wieża kościoła/ to miejsce pamięci narodowej, które od wielu pokoleń ogniskuje pamięć zbiorową i tożsamość narodową, przypomina o chwalebnych kartach naszej historii, np. zwycięską bitwę pod Grunwaldem, jak również nie pozwala zapomnieć tych mroczniejszych dziejów i tragicznych pokoleń, które trwały w miłości Ojczyzny, w postawie poświęcenia i wyrzeczeń na rzecz przyszłych pokoleń.</p>
-    <p><img src="../assets/fotosy/Lubelskie-Sanktuarium-Pamieci-Narodowej-1.jpg" alt=""></p>
+    <div class="figure"><img src="../assets/fotosy/Lubelskie-Sanktuarium-Pamieci-Narodowej-1.jpg"alt=""></div>
   </section>
     <section>
     <p><strong>–</strong> <strong>Ekspozycja historyczna, archeologiczna i numizma­tyczna</strong> z tarasem widokowym na zabytkowe freski i panoramę Lublina. Ekspozycje przypominają o naszych korzeniach, o chlubnych kartach z dziejów naszej Ojczyzny. To lekcje odległej historii we współczesnych czasach.</p>
-    <p><img src="../assets/fotosy/Ekspozycja-archeologiczna-2.jpg" alt=""></p>
-    <p><img src="../assets/fotosy/Ekspozycja-historyczna-1.jpg" alt=""></p>
-    <p><img src="../assets/fotosy/Ekspozycja-numizmatyczna-3.jpg" alt=""></p>
+    <div class="figure"><img src="../assets/fotosy/Ekspozycja-archeologiczna-2.jpg"alt=""></div>
+    <div class="figure"><img src="../assets/fotosy/Ekspozycja-historyczna-1.jpg"alt=""></div>
+    <div class="figure"><img src="../assets/fotosy/Ekspozycja-numizmatyczna-3.jpg"alt=""></div>
     <p>Odnowiona świątynia zachęca do odkrycia na nowo potrzeby patriotyzmu i duchowego przesłania św. Brygidy, którą św. Jan Paweł II nazywał „zwiastunką i prorokinią czasów współczesnych”.</p>
     <p>Niech św. Brygida, dzielna niewiasta, małżonka i matka, a zarazem wielka mistyczka Północy, wskazuje drogę, jaką należy przebyć w celu przyspieszenia godziny jedności wśród ludzkich.</p>
   </section>
@@ -69,7 +69,7 @@
     <p><strong>POD GRUNWALDEM D. 15 LIPCA 1410 ROKU.</strong></p>
     <p><strong>W PIĘĆSETNĄ ROCZNICĘ</strong></p>
     <p><strong>WDZIĘCZNA POTOMNOŚĆ TABLICE TĘ POŁOŻYŁA</strong></p>
-    <p><img src="../assets/fotosy/Popiersie-krola-z-tablica.jpg" alt=""></p>
+    <div class="figure"><img src="../assets/fotosy/Popiersie-krola-z-tablica.jpg"alt=""></div>
   </section>
     <section>
     <p>Obok kamiennego okna nad Popiersiem Monarchy umieszczono chorągiew jagiellońską i litewską, przypominającą o połączonych siłach oręża polskiego i litewskiego, które odniosły zwycięstwie w bitwie grunwaldzkiej.</p>
@@ -78,12 +78,12 @@
   </section>
     <section>
     <p>W Kaplicy znajduje się także obraz króla Kazimierza Jagiellończyka, wcześniej wiszący na prawej ścianie prezbiterium. (Renowacja obrazu i popiersia monarchy została przeprowadzona w 2010 r.) Zostały ustawione także konfesjonał, klęczniki, ławka kolatorska i ławka neobarokowa. Wymienione obiekty są wpisane do rejestru zabytków województwa lubelskiego.</p>
-    <p><img src="../assets/fotosy/obraz-krola-Kazimierza-Jagiellonczyka.jpg" alt=""></p>
+    <div class="figure"><img src="../assets/fotosy/obraz-krola-Kazimierza-Jagiellonczyka.jpg"alt=""></div>
     <p>Odnowienie tych zabytków było możliwe do przeprowadzenia w latach 2012-2021 dzięki przyznanym dotacjom przez Ministra Kultury i Dziedzictwa Narodowego Wojewódzki Urząd Ochrony Zabytków w Lublinie, Miejskiego Konserwatora Zabytków w Lublinie. Urząd Marszałkowski w Lublinie i anonimowemu ofiarodawcy.</p>
   </section>
     <section>
     <p>Z Kaplicy Grunwaldzkiej drzwi i wąskie przejście prowadzą do zakrystii, natomiast schodki – na ambonę, usytuowaną po lewej stronie nawy głównej.</p>
-    <p><img src="../assets/fotosy/Oltarz-sw.-Judy-Tadeusza.jpg" alt=""></p>
+    <div class="figure"><img src="../assets/fotosy/Oltarz-sw.-Judy-Tadeusza.jpg"alt=""></div>
   </section>
     <section>
     <p>W Kaplicy, po renowacji, znajduje się także przeszklony wziernik, umożliwiający widok krypty wykonanej z białego kamienia w stylu gotyckim z ekspozycją 2 trumien Sióstr Wizytek.</p>
@@ -91,21 +91,21 @@
   </section>
     <section>
     <p><strong>– Sanktuarium św. Brygidy</strong></p>
-    <p><img src="../assets/fotosy/Sanktuarium-sw.-Brygidy-5.jpg" alt=""></p>
+    <div class="figure"><img src="../assets/fotosy/Sanktuarium-sw.-Brygidy-5.jpg"alt=""></div>
     <p>Sanktuarium św. Brygidy – prezbiterium i nawa główna. W tej części dla zwiedzających został udostępniony m.in. zabytkowy XV wieczny obraz św. Brygidy, która żyła w XIV w. w Szwecji. To ona przepowiedziała klęskę Krzyżaków pod Grunwaldem. Przepowiednię o władcy który rozgromił potęgę Krzyżaków król Władysław Jagiełło odniósł do siebie. Dlatego razem z kościołem wybudował klasztor dla sióstr Brygidek i braci Brygidów. A w kościele został umieszczony obraz św. Brygidy namalowany w stylu gotyckim pod koniec XV w. wraz z cyklem 14 obrazów przedstawiający życie św. Brygidy, wspaniałej kobiety, kochającej żony, wymagającej matki, i pełnej dyplomacji kobiety. Cykl obrazów w stallach prezbiterium uzupełnia i przybliża życia św. Brygidy.</p>
-    <p><img src="../assets/fotosy/Oltarz-z-figura-Matki-Bozej.jpg" alt=""></p>
+    <div class="figure"><img src="../assets/fotosy/Oltarz-z-figura-Matki-Bozej.jpg"alt=""></div>
   </section>
     <section>
     <p>Obraz św. Brygidy, św. Małgorzaty Maria Alacoque oraz figura Matki Bożej depczącej głowę węża zostały umieszczone w ołtarzu głównym. Poszczególne zabytki są eksponowane w zależności od okresu liturgicznego lub nabożeństwa.</p>
-    <p><img src="../assets/fotosy/Oltarz-glowny-z-obrazem-sw.-Malgorzaty-Marii-Alacoque-po-przeprowadzonych-pracach-8.jpg" alt=""></p>
+    <div class="figure"><img src="../assets/fotosy/Oltarz-glowny-z-obrazem-sw.-Malgorzaty-Marii-Alacoque-po-przeprowadzonych-pracach-8.jpg"alt=""></div>
   </section>
     <section>
     <p>Obraz św. Brygida z XV w. został wypożyczony przez Zamek Królewski na Wawelu na wystawę z okazji 600-lecia zwycięstwa pod Grunwaldem, fotografie tego obrazu były prezentowane na wystawie w Wilnie. Dzięki takiej niezwykłej kolekcji obrazów ze scenami z życia św. Brygidy można realizować cele edukacyjne, kulturalne i turystyczne.</p>
-    <p><img src="../assets/fotosy/Oltarz-glowny-z-obrazem-sw.-Brygidy-po-przeprowadzonych-pracach-7.jpg" alt=""></p>
+    <div class="figure"><img src="../assets/fotosy/Oltarz-glowny-z-obrazem-sw.-Brygidy-po-przeprowadzonych-pracach-7.jpg"alt=""></div>
   </section>
     <section>
     <p>Sklepienie prezbiterium – sanktuarium św. Brygidy jest wykonane w stylu renesansu lubelskiego. Możemy zobaczy na nim 4 ewangelistów z ich symbolami, 2 aniołów z palmą w ręku oraz ornamentykę rośliną, girlandy owoców i warzyw oraz uskrzydloną głowę z chustą pod szyją a także symbole religijne. Ten styl architektoniczny jest charakterystyczny dla regionu Lubelskiego.</p>
-    <p><img src="../assets/fotosy/Sklepienie-1.jpg" alt=""></p>
+    <div class="figure"><img src="../assets/fotosy/Sklepienie-1.jpg"alt=""></div>
     <p>Na ścianach prezbiterium został umieszczone obrazy: Zwiastowanie Pańskie, Wniebowzięcie NMP, św. Józef oraz św. Franciszek Salezy. Warto również zwrócić uwagę na portal oraz drzwi łączące prezbiterium z zakrystią oraz na sygnaturkę.</p>
     <p>W Sanktuarium św. Brygidy, współpatronki Europy, znajduje się wejście do krypt, <strong>które przeznaczono do zwiedzania</strong>. W tym celu wykonano zejście w postaci schodów i połączono obydwie krypty przejściem nad którym wykonano murowane sklepienie kolebkowe (w nawiązaniu do istniejących murów krypt). W tych krypach zlokalizowano ekspozycję archeologiczną (m.in. zabytki archeologiczne drewniane i metalowe, habity i trumny, w tym ostatniej ksieni Brygidek).</p>
     <p><strong>W nawie głównej zlokalizowano także ambonę oraz cykl obrazów emblematycznych w ławkach.</strong></p>
@@ -113,7 +113,7 @@
   </section>
     <section>
     <p><strong>– Lubelskie Sanktuarium Pamięci</strong></p>
-    <p><img src="../assets/fotosy/Lubelskie-Sanktuarium-Pamieci-Narodowej-3.jpg" alt=""></p>
+    <div class="figure"><img src="../assets/fotosy/Lubelskie-Sanktuarium-Pamieci-Narodowej-3.jpg"alt=""></div>
     <p><strong>Lubelskie Sanktuarium Pamięci Narodowej – nawa boczna i wieża Kościoła Pobrygidkowksiego.</strong> Od samego początku w mury tego kościoła wpisuje się pamięć o sprawach Ojczyzny i potrzeba patriotyzmu oraz modlitwy za Ojczyznę. Król Władysław Jagiełło zobowiązał Ojców Brygidów – kapłanów do sprawowania trzech Mszy św. tygodniowo: za siebie, za swojego następcę i o pomyślność państwa polskiego.</p>
     <p>Kościół pobrygidkowski od lat pełnił rolę ośrodka pielęgnującego narodowe tradycje, rocznice powstań narodowych, dążenia niepodległościowe, tragiczne wydarzenia z okresu II wojny światowej.</p>
     <p>Od wielu lat aranżację nawy bocznej wyznaczały liczne tablice pamiątkowe, nawiązujące do osób i wydarzeń z historii kościoła, miasta Lublin i naszej Ojczyzny.</p>
@@ -123,10 +123,10 @@
     <p>Są także tablice epitafijne upamiętniające działalność patriotyczno-społeczną kobiet: Siostry Urszulanki Bożeny Emilii Szerwantke, Heleny z Rojowskich Masłowiczowej i Ludwiki Zembrzuskiej.</p>
   </section>
     <section>
-    <p><img src="../assets/fotosy/Nawa-boczna-gotycka-plyta.jpg" alt=""></p>
+    <div class="figure"><img src="../assets/fotosy/Nawa-boczna-gotycka-plyta.jpg"alt=""></div>
     <p>W 1992 roku zawisła tablica dedykowana rektorowi naszego kościoła, ówczesnemu Słudze Bożemu, a dziś błogosławionemu ks. Kazimierzowi Gostyńskiemu, zamordowanemu w komorze gazowej w Dachau w 1942r. Wśród tablic upamiętniających rektorów tego kościoła są epitafia: ks. Jana Władzińskiego, ks. Andrzeja Chlastawy, ks. Stefana Młynarczyka. Te i inne tablice predestynują nawę boczną naszego kościoła do nazwy Lubelskiego Sanktuarium Pamięci Narodowej.</p>
     <p>Po renowacji – zgodnie z zaleceniami służb konserwatorskich i wskazówkami Komisji Liturgicznej Kurii Metropolitalnej w Lublinie – dokonano uporządkowania tablic: część z nich pozostała w nawie bocznej, część została przeniesiona do wieży kościoła, która jest udostępniona w ciągu całego dnia do zwiedzania pielgrzymom i turystom.</p>
-    <p><img src="../assets/fotosy/Nawa-boczna-sklepienie.jpg" alt=""></p>
+    <div class="figure"><img src="../assets/fotosy/Nawa-boczna-sklepienie.jpg"alt=""></div>
     <p>Nawa boczna odzyskała swój ukryty blask dzięki nowym tynkom, wykonanym zgodnie z gotycką techniką (tynk wapienno-piaskowy, falujący, nierówny) posadzce, oświetleniu. Przy bocznym ołtarzu odsłonięto także fragment starej posadzki z kamienia. Na ścianie zachodniej nawy bocznej przywrócono ścianę z białego kamienia, zaś w pobliżu bocznego wejścia wyeksponowano fragmenty starego, oryginalnego XV-wiecznego tynku wraz z wątkiem ceglanym. Pod posadzką nawy bocznej znajduje się 5 krypt. Nad wejściem jednej z nich zostało położone przeszklenie umożliwiające „zwiedzanie” jej ekspozycji. Obraz z krypty jest też transmitowany do wieży kościoła. W nawie bocznej zlokalizowano ołtarz św. Józefa, Patrona Kościoła Powszechnego z obrazem św. Jana Pawła II.</p>
     <p>W opisywanej nawie, w jej środkowej wnęce, znajduje się, czasami niezauważona przez zwiedzających, kaplica św. Barbary z neobarokową rzeźbą Piety (z przełomu XIX i XX wieku). Nazwa kaplicy upamiętnia istnienie w minionych wiekach kaplicy NMP, św. Zofii i św. Barbary, na miejscu której zbudowany został obecny kościół. Obecnie ta kaplica pełni funkcję kaplicy katyńskiej, gdzie umieszczono tablicę upamiętniającą ofiary kaźni, urnę z prochami pomordowanych w Katyniu, guziki wydobyte z dołów śmierci i obraz Matki Bożej Katyńskiej. W październiku 2012r. została tu umieszczona także urna z prochami pomordowanych w Bykowni, dar Wojewody Lubelskiego.</p>
     <p>W dwóch pozostałych szerszych wnękach, nad którymi biegnie wąski korytarz, łączący klasztor z chórem (obecnie przejście jest zamurowane), stoi zabytkowy, XVII-wieczny konfesjonał.</p>
@@ -135,15 +135,15 @@
     <section>
     <p>Wieża kościoła z chórem</p>
     <p>Dotychczas osobami, które najczęściej „odwiedzały” wieżę, i to tylko na poziomie chóralnym, byli organiści. Po renowacji i remoncie wszystko się zmieniło. XVII-wieczna wieża otwarta jest dla naszej wspólnoty i wszystkich zwiedzających.</p>
-    <p><img src="../assets/fotosy/Chor-gablota-1.jpg" alt=""></p>
+    <div class="figure"><img src="../assets/fotosy/Chor-gablota-1.jpg"alt=""></div>
   </section>
     <section>
     <p>Najciekawsze miejsce do jakiego prowadzą nowe schody w wieży to fragmenty gotyckiej dekoracji malarskiej, prawdopodobnie z lat 1430 i 1460- 1470. Znajdują się one nad i pod sklepieniem nawy głównej. Stało się to skutek tego, iż polichromia znajdowała się pierwotnie poniżej stropu nakrywającego nawę. Sufit był płaski z drewnianych belek i kasetonów.</p>
-    <p><img src="../assets/fotosy/Chor-muzyczny-4.jpg" alt=""></p>
+    <div class="figure"><img src="../assets/fotosy/Chor-muzyczny-4.jpg"alt=""></div>
     <p>Późnogotycki szczyt oraz przesklepienie nawy głównej wykonane zostało w poł. XVI w. W ten sposób malowidła zostały przedzielone. Odnowione fragmenty dekoracyjnego fryzu przedstawiają na tle Starego Miasta pochód rycerzy konnych z wyprzedzającym ich brodatym jeźdźcem oraz króla z giermkiem. Te zabytkowe fragmenty fresku są zaliczane do najwcześniejszych w Polsce utworów malarskich o tematyce świeckiej umieszczanych w kościele i z punktu widzenia historii sztuki były zapowiedzią renesansu. W czasie prac zostały także odkryte freski z wcześniejszego jeszcze okresu.</p>
   </section>
     <section>
-    <p><img src="../assets/fotosy/Lubelskie-Sanktuarium-Pamieci-Narodowej-5.jpg" alt=""></p>
+    <div class="figure"><img src="../assets/fotosy/Lubelskie-Sanktuarium-Pamieci-Narodowej-5.jpg"alt=""></div>
     <p>W wieży znajdą się też tablice i symbole upamiętniające fakty z historii naszego kościoła, miasta i Ojczyzny. Wcześniej znajdowały się w prawej nawie bocznej, która nadal pozostała miejscem pamięci i tradycji narodowych. Część jednak tablic została przeniesiona do wieży. Znajduje się w niej obok ekspozycji historycznej z rycerzem Krzyżackim na czele i dwoma nagimi mieczami, wystawa numizmatyczna. Na wieży została wykonana także nowa konstrukcja 2 dzwonów, których rozlegający się głos będzie nieustannie przypominał o historycznym zwycięstwie. Z wieży będziemy mogli także podziwiać przez lunety panoramę Lublina.</p>
   </section>
 

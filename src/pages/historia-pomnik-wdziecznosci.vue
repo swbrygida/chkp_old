@@ -3,28 +3,28 @@
 
 
 <section>
-    <p>„ŚWIĄTYNIĘ TĘ WZNIÓSŁ KRÓŁ WŁADYSŁAW JAGIEŁŁO/</p>
-    <p>NA PAMIĄTKĘ ZWYCIĘSTWA ODNIESIONEGO /</p>
-    <p>POD GRUNWALDEM</p>
-    <p>D. 15 LIPCA 1410 ROKU</p>
-    <p>W PIĘĆSETNĄ ROCZNICĘ</p>
-    <p>WDZIĘCZNA POTOMNOŚĆ TABLICĘ TĘ POŁOŻYŁA”.</p>
-    <p><img src="../assets/fotosy/Popiersie-i-tablica.jpg" alt=""></p>
+    <h4>„ŚWIĄTYNIĘ TĘ WZNIÓSŁ KRÓŁ WŁADYSŁAW JAGIEŁŁO/<br>
+    NA PAMIĄTKĘ ZWYCIĘSTWA ODNIESIONEGO /<br>
+    POD GRUNWALDEM<br>
+    D. 15 LIPCA 1410 ROKU<br>
+    W PIĘĆSETNĄ ROCZNICĘ<br>
+    WDZIĘCZNA POTOMNOŚĆ TABLICĘ TĘ POŁOŻYŁA”.</h4>
+    <div class="figure"><img src="../assets/fotosy/Popiersie-i-tablica.jpg" alt=""></div>
   </section>
     <section>
     <p>Król Władysław Jagiełło po bitwie, która miała miejsce 15 lipca 1410 r. pod Grunwaldem, jako dziękczynienie za zwycięstwo nad Krzyżakami, ufundował w Lublinie pomnik wdzięczności – kościół wraz z klasztorem, do którego sprowadził Zakon Najświętszego Zbawiciela św. Brygidy.</p>
-    <p><img src="../assets/fotosy/model-kaplicy-1-2.jpg" alt=""></p>
+    <div class="figure"><img src="../assets/fotosy/model-kaplicy-1-2.jpg" alt=""></div>
     <p>Na potrzeby królewskiej fundacji zagospodarowano istniejącą już na obrzeżach ówczesnego Lublina kaplicę św. Barbary i św. Zofii, przy której istniało bractwo Najświętszej Maryi Panny. Na prośbę króla Władysława Jagiełły, ówczesny prebendarz kaplicy, Marcin Stogneus złożył rezygnację ze swojego stanowiska na rzecz Jana Hoelwassa (Holwassera), prokuratora kongregacji św. Brygidy. Zadaniem prokuratora było przygotowanie otrzymanej fundacji dla potrzeb swojego zakonu. Poza samą świątynią, na potrzeby kongregacji zakonnej przygotowano dwa domy przylegające do kościoła, od północy dom dla zakonników, od południa – dla sióstr zakonnych. Król zapisał także na rzecz swojej fundacji trzy i pół łana ziemi w bezpośredniej okolicy kościoła i klasztoru, oraz dwie wsie królewskie: Czerniejów i Skrzynice, a także 1/10 dochodów z młynów lubelskich i część ceł z Lublina i Chełma.</p>
     <p>Pomimo przeciwności na jakie napotkała fundacja królewska, wskutek zakulisowych działań zakonu krzyżackiego zarówno w Szwecji, jak i w Rzymie, po interwencji u papieża fundacja została ukończona w 1426 r. W tym też roku, do Lublina z klasztoru w Gdańsku, przybyli pierwsi bracia zakonni i siostry zakonne.</p>
   </section>
   <section>
-    <p><img src="../assets/fotosy/tablica-nr-1-elewacja-1.jpg" alt=""></p>
+    <div class="figure"><img src="../assets/fotosy/tablica-nr-1-elewacja-1.jpg" alt=""></div>
     <p>Powstanie fundacji było wyrazem głębokiej wiary króla Władysława Jagiełły w skuteczną pomoc Bożą, jakiej doznał w czasie walk z Krzyżakami. Lubelska świątynia miała być wotum dziękczynnym za zwycięstwo odniesione nad nimi pod Grunwaldem 15 lipca 1410 roku. Jednocześnie była także pierwszym w kraju pomnikiem je upamiętniającym.</p>
     <p>Wydarzenie to dokumentują 3 tablice pamiątkowe, które znajdują się: w kaplicy Matki Bożej i św. Judy -Tadeusza, pod stiukowym popiersiem króla – fundatora, w półokrągłej niszy nad głównym wejściem do kościoła oraz w imitującej wejście niszy na frontonie kościoła.</p>
     <p>Dlaczego król Władysław Jagiełło wybrał Lublin?</p>
   </section>
     <section>
-    <p><img src="../assets/fotosy/tablica-nr-2-elewacja-1.jpg" alt=""></p>
+    <div class="figure"><img src="../assets/fotosy/tablica-nr-2-elewacja-1.jpg" alt=""></div>
     <p>Lublin to gród Jagiellonów, to miasto, które król Władysław Jagiełło bardzo sobie upodobał. Leżał on na szlaku Kraków – Wilno, szlaku zwanym Via Jagellonica, Szlakiem Jagiellonów lub traktem krakowsko-wileńskim, który łączył stolicę Księstwa Litewskiego – Wilno, ze stolicą Królestwa Polskiego w Krakowie. To właśnie do Lublina w 1386 r. przybył Wielki Książę Litewski Jagiełło, by stąd wyruszyć do Krakowa, gdzie został mężem królowej Jadwigi Andegaweńskiej i <em>iure uxoris</em> Królem Polski oraz przyjął chrzest, na którym otrzymał imię Władysław. To za jego panowania doszło do wielkiej wojny Polski i Litwy z państwem krzyżackim.</p>
     <p>Wielka wojna Królestwa Polskiego i Wielkiego Księstwa Litewskiego z zakonem krzyżackim wspieranym przez węgierską dynastię Luksemburgów i zachodnioeuropejskie rycerstwo miała miejsce w latach 1409 – 1411. Zakon krzyżacki był stroną, która zapoczątkowała konflikt oraz była jego głównym agresorem. Lecz stroną, która zdominowała działania wojenne była Polska i Litwa. Te działania zostały uwieńczone zwycięstwem pod Grunwaldem, gdzie wojska polsko-litewskie w bitwie, która przeszła do historii jako jedna z największych bitew średniowiecznej Europy, zgromiły siły wojsk krzyżackich. W podzięce za to zwycięstwo król Władysław Jagiełło postanowił ufundować pomnik wdzięczności i złożyć go w ręce ludzi oddanych Bogu. Ponieważ pola grunwaldzkie pozostały w granicach państwa krzyżackiego, dlatego król ową fundację ulokował w miejscu, które drogie było jego sercu, czyli w mieście Lublinie. A ponieważ został on zapoznany z proroctwem św. Brygidy, w którym święta przepowiedziała klęskę zakonu krzyżackiego, król powierzył swoje dzieło duchowym synom i córkom Świętej, czyli Zakonowi Najświętszego Zbawiciela św. Brygidy. Ich zadaniem, poza kultywowaniem charyzmatów zakonu było pielęgnowanie pamięci o czasach minionych.</p>
   </section>
@@ -36,10 +36,10 @@
     <p>D. 15 LIPCA 1410 ROKU</p>
     <p>W PIĘĆSETNĄ ROCZNICĘ</p>
     <p>WDZIĘCZNA POTOMNOŚĆ TABLICĘ TĘ POŁOŻYŁA.</p>
-    <p><img src="../assets/fotosy/Popiersie-i-tablica-1.jpg" alt=""></p>
+    <div class="figure"><img src="../assets/fotosy/Popiersie-i-tablica-1.jpg" alt=""></div>
   </section>
   <section>
-    <p><img src="../assets/fotosy/model-kosciola-1.jpg" alt=""></p>
+    <div class="figure"><img src="../assets/fotosy/model-kosciola-1.jpg" alt=""></div>
     <p>Grunwald to symbol chwały, do którego zwracamy swe tęskne oczy, aby stamtąd, od przodków naszych, ze skarbca ich cnót zaczerpnąć ożywczych wspomnień i pociech.</p>
     <p>Trzeba więc często przeglądać te jasne karty dziejów naszych, które mówią nam, przy pomocy jakich środków przodkowie nasi zwyciężali, abyśmy korzystając z ich przykładu i wzorów, posiadali pewne środki ku obronie naszego narodowego życia.</p>
     <p>Zakon Krzyżacki było to stowarzyszenie religijno-rycerskie, założone przez Niemców dla obrony Ziemi Świętej przed niewiernymi. Tworzyli go: kapłani, bracia i posługujący. Na czele Zakonu stał wielki mistrz, a nad pojedynczymi domami przełożonymi byli komturowie.</p>
@@ -51,7 +51,7 @@
     <p>Wojska koronne powierza król kasztelanowi krakowskiemu Zyndramowi z Maszkowic. Władzę nad całym wojskiem powierza król radzie wojennej, na której czele stoi Witold.</p>
   </section>
     <section>
-    <p><img src="../assets/fotosy/model-kosciola-2.jpg" alt=""></p>
+    <div class="figure"><img src="../assets/fotosy/model-kosciola-2.jpg" alt=""></div>
     <p>15 lipca o godzinie ósmej staje wojsko nad jeziorem Lubeń, po zdobyciu warowni Dąbrowo.</p>
     <p>Krzyżacy nadciągali od strony miejscowości Tannenberg. Przed rozpoczęciem bitwy król uczestniczył w Mszy św., przystąpił do Komunii i trwał na modlitwie w kaplicy obozowej.</p>
     <p>Wielki mistrz wysłał poselstwo, które przynosi w darze dwa miecze, jeden z nich dla króla, a drugi dla Witolda, aby mogli lepiej się bronić. Król przyjął dar bo widział w nim pomyślną zapowiedź zwycięstwa.</p>
@@ -59,7 +59,7 @@
     <p>Bitwa trwała ponad 5 godzin. Był to bój bohaterski, niezwykły, w którym każdy rycerz miał nie tylko bronić swego życia, ale chciał utorować drogę do wolności i bezpieczeństwa przyszłych pokoleń narodu. W tej bitwie Bóg karał Zakon za popełnione zbrodnie.</p>
   </section>
     <section>
-    <p><img src="../assets/fotosy/Kaplica-grunwaldzka.jpg" alt=""></p>
+    <div class="figure"><img src="../assets/fotosy/Kaplica-grunwaldzka.jpg" alt=""></div>
     <p>Po zwycięskiej bitwie król powrócił do Krakowa, przypisując zwycięstwo Bogu. To co zwycięstwo zawdzięczają łasce Boga, któremu składają podziękowania.</p>
     <p>W prastarej katedrze na Wawelu król złożył chorągwie i proporce i długo modlił się na grobach Władysława Łokietka i św. Jadwigi, księżnej śląskiej.</p>
     <p>Grunwald to jedna z najświetniejszych chwil narodowego życia. Litwini dostrzegli, że jedynym ratunkiem jest zjednoczenie z Polską. Dlatego w 1413 w Horodle oświadczają, że pragną pozostać z Polską. Później 1 lipca 1569 roku za Zygmunta Augusta w Lublinie stwierdzają uroczystą przysięgą, że losy swojego narodu pragną na zawsze złożyć z losami Polski, pod rządami jednego króla.</p>
@@ -68,25 +68,25 @@
     <p>Na pamiątkę uwolnienia Polski i Litwy od ucisku Krzyżaków, po zwycięstwie grunwaldzkim, Jagiełło pragnie utworzyć fundację jako dar Bogu dziękczynny. Zakłada też kościół i klasztor św. Brygidy, uposaża je wspaniale, przeznaczając na ten cel znaczne sumy.</p>
   </section>
     <section>
-    <p><img src="../assets/fotosy/tablica-nr-1-elewacja-2.jpg" alt=""></p>
+    <div class="figure"><img src="../assets/fotosy/tablica-nr-1-elewacja-2.jpg" alt=""></div>
     <p>Królewskie wotum za zwycięstwo pod Grunwaldem. Po zwycięskiej bitwie pod Grunwaldem w 1410 roku, Władysław Jagiełło <strong>ufundował w Lublinie w latach 1412–1426 dziękczynny</strong> <strong><a href="http://teatrnn.pl/leksykon/node/1282/ko%C5%9Bci%C3%B3%C5%82_pw_matki_boskiej_zwyci%C4%99skiej_%E2%80%93_prezentacja">kościół pw. Matki Boskiej Zwycięskiej</a></strong> <strong>i klasztor</strong>, osiedlając w nim pierwszy w mieście i pierwszy w Polsce żeński zakon św. Brygidy. Świątynia ta była pierwszym w Polsce pomnikiem grunwaldzkiej wiktorii, wzniesiona najprawdopodobniej rękami jeńców krzyżackich. Na podziękowanie Bogu za zwycięstwo, aby ten dziejowy wypadek na zawsze zapisany był w pamięci potomnych, postanawia król wznieść kościół – pomnik w Lublinie. Został on wzniesiony poza murami miasta, na terenie zwanym Jurydyki Panny Marii, na pamiątkę małej kapliczki NMP stojącej w tym miejscu. Kobieta o imieniu Wojciecha 3 łany pola wraz domem mieszkalnym i zabudowaniami przekazała pod koniec XIV w. miastu, pod warunkiem, że zostanie wybudowana tu kaplica ku czci Najświętszej Panny. Miejscy rajcowie zwracają się z prośbą do krakowskiego biskupa Piotra Wysza o pozwolenie na budowę, otrzymują zgodę, a sam biskup przyjechał do Lublina, aby założyć pierwszy kamień pod kaplicę Panny Maryi, św. Barbary i św. Zofii. I pragnąc postawić pomnik w Lublinie na pamiątkę zwycięstwa pod Grunwaldem król zwraca uwagę na tę kaplicę z 1396r.</p>
     <p>Zwycięstwo odniesione pod Grunwaldem przypisywał jedynie Bogu, a na podziękowanie postanowił wznieść świątynię, a przy niej ufundować klasztor zakonu św. Brygidy. Dlaczego ten Zakon? Gdyż św. Brygida przepowiedziała klęskę Krzyżakom i te słowa król Władysław Jagiełło odniósł do siebie.</p>
   </section>
     <section>
-    <p><img src="../assets/fotosy/Rzut-kosciola.jpg" alt=""></p>
+    <div class="figure"><img src="../assets/fotosy/Rzut-kosciola.jpg" alt=""></div>
     <p>Krzyżacy dowiedziawszy się o planach fundacyjnych króla wszelkimi sposobami starali się temu przeszkodzić, rozsiewali także kłamstwa o królu i naszym kraju. Z tego względu przełożeni w Szwecji odmówili wysłania zakonników św. Brygidy do Lublina.</p>
     <p>Król potrzebował 2 lat aby uzyskać zgodę Stolicy Apostolskiej na ten niezwykły pomnik: kościół wraz z klasztorem. Jako niedawno założony zakon św. Brygidy nie miał takiej ilości zakonników, których by mógł wysłać do Polski, gdyż liczba w każdym klasztorze była dokładnie określona. I tak każdy klasztor miał posiadać 60 sióstr zakonnych, 13 kapłanów, 4 diakonów, 8 laików, co razem wzięte musiało odpowiadać liczbie 13 apostołów i 72 uczniów.</p>
     <p>I oto w 1412 roku przyjeżdża do Lublina, prokurator Jan Helwasser wysłany z ramienia przełożonych zakonu św. Brygidy i tu wobec króla, rajców miejskich, w niedzielę po oktawie św. Marcina spisany został akt, mocą którego kosztem królewskim ma być zbudowany kościół Panny Maryi Zwycięskiej (a triumpho) na pamiątkę bitwy pod Grunwaldem, a przy nim klasztor zakonu św. Brygidy, aby tu była przechowywana wieczna pamięć króla Władysława Jagiełły i jego sławnych poprzedników oraz tych wszystkich, którzy polegli pod Grunwaldem. Z klasztoru św. Brygidy w Gdańsku zostali sprowadzeni do Lublina zakonnicy pochodzenia niemieckiego.</p>
     <p>Król bogato uposażył zakonników, dając mu wieś Czerniejów, Skrzynice oraz przyległy folwarczek, nadając także liczne przywileje, na mocy których zapewnione miał klasztor pobieranie niektórych miejskich czynszów.</p>
   </section>
     <section>
-    <p><img src="../assets/fotosy/Kosciol-czasy-wspolczesne.jpg" alt=""></p>
+    <div class="figure"><img src="../assets/fotosy/Kosciol-czasy-wspolczesne.jpg" alt=""></div>
     <p>Przy jednej z większych ulic w Lublinie, dziś – pisał ks. Jan Władziński w 1910 – Namiestnikowską zwanej (wcześniej ulica Panny Maryi), wznosi się na wprost teatru miejscowego świątynia, swą zewnętrzną strukturą staro gotycką budzącą podziw każdego przechodnia.</p>
     <p>A gdy wejdziesz do wnętrza tej świątyni, jakiś bezwład budowy panuje tu, ale w tym bezładzie wieleż piękna. Niskie sklepienie, schody na dół wiodące, dwie tylko nawy, przy bocznej nawie przybudówka, pełna wgłębień służących do okien i bocznych drzwi, żebra na sklepieniach z monolitów spajane, a spięte są cylindrami. Wejście na ambonę zamurowane aż do 1903 roku. Prezbiterium, pod nim podziemia z cegły. Sklepienia w prezbiterium z bogatą, misterną gipsaturą, stalle z obrazami życia św. Brygidy, nad zakrystią obraz świętej patronki.</p>
     <p>Wewnątrz świątynia nie posiadał sklepienia ani chóru. Był zwyczajny strop wraz ze ścianami ozdobnie malowany. Z czasem zostały zniszczone te malowidła i przykryto grubą warstwą tynku. Dziś można je jeszcze oglądać.</p>
   </section>
     <section>
-    <p><img src="../assets/fotosy/model-kosciola-3.jpg" alt=""></p>
+    <div class="figure"><img src="../assets/fotosy/model-kosciola-3.jpg" alt=""></div>
     <p>Taką świątynię oddał w roku 1426 Władysław Jagiełło zakonnikom i zakonnicom św. Brygidy, zobowiązując kapłanów zakonnych, aby każdy z nich odprawił tygodniowo trzy msze św.: za króla, jego następców o pomyślność państwa polskiego. Król bogato uposażył także zakrystię kościoła. A więc były tu złote kielichy, krzyże, puszki wysadzane drogimi kamieniami oraz drogocenne kapy i ornaty.</p>
   </section>
 
@@ -128,6 +128,9 @@
 }
 
 </script>
-<style >
-
+<style scoped>
+  h4 {
+    font-size: 1.8em;
+    padding: 10vh 10vw;
+  }
 </style>

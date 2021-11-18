@@ -4,7 +4,7 @@
 
 
   <p>Na pierwszym poziomie wieży znajdują się gabloty zawierającą monety pozyskane w czasie prac archeologicznych. Większość z nich została znaleziona pod posadzką świątyni.</p>
-  <p><img src="../assets/fotosy/Ekspozycja-numizmatyczna-2.jpg" alt=""></p>
+  <div class="figure"><img src="../assets/fotosy/Ekspozycja-numizmatyczna-2.jpg" alt=""></div>
 </section>
   <section>
   <p>Numizmaty zaprezentowano w porządku chronologicznym. Powyżej, każdej z monet znajduje się powiększone zdjęcie jej awersu i rewersu.</p>
@@ -15,11 +15,11 @@
 </section>
   <section>
   <p><strong>W drugiej szufladzie</strong> znajdują się monety polskich monarchów z okresu nowożytnego – od XVI wieku do III rozbioru Polski, w 1795 r. Kolekcję tę otwierają numizmaty Zygmunta I Starego, syna Jana Kazimierza i wnuka Władysława Jagiełły. W tym okresie denary wychodziły z użycia, choć nadal były w obiegu. Bito je w różnych mennicach i były środkiem płatniczym na wybranym obszarze. Z tego względu mają różne epitety – „elbląski”, „pruski”, „koronny”, „litewski”. Najpopularniejszą monetą stał się grosz oraz jego wielokrotności – jak np. „półtorak” Zygmunta III Wazy, warty 1,5 grosza. Doszło do tego, że za rządów Jana Kazimierza żołd wypłacany był w workach wypełnionych szelągami, takimi jakie znajdują się na ekspozycji. Była to największa w dziejach Pierwszej Rzeczpospolitej inflacja.</p>
-  <p><img src="../assets/fotosy/Ekspozycja-numizmatyczna.jpg" alt=""></p>
+  <div class="figure"><img src="../assets/fotosy/Ekspozycja-numizmatyczna.jpg" alt=""></div>
 </section>
   <section>
   <p><strong>W trzeciej szufladzie</strong> umieszczono znaki mennicze obcych władców, których panowanie w rodzimych krajach w różny sposób było powiązane z losami Polski w okresie nowożytnym. <strong>Ferdynand I Habsburg</strong> był mężem Anny Jagiellonki – córki króla Czech i Węgier Władysława II Jagiellończyka, a więc dla Władysława Jagiełły był prawnukiem.</p>
-  <p><img src="../assets/fotosy/Ekspozycja-numizmatyczna-3.jpg" alt=""></p>
+  <div class="figure"><img src="../assets/fotosy/Ekspozycja-numizmatyczna-3.jpg" alt=""></div>
 </section>
   <section>
   <p><strong>Albreht Hohenzollern</strong> był także potomkiem Władysława Jagiełły – jego matką była Zofia Jagiellonka, siostra Zygmunta Starego. Wsławił się jako ostatni wielki mistrz zakonu krzyżackiego, który przekształcił go w państwo świeckie – Prusy Książęce. Już, jako jego władca złożył, 10 kwietnia 1525 r. w Krakowie, hołd lenny Zygmuntowi Staremu, czego odbiciem są prezentowane monety.</p>
