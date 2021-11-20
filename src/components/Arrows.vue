@@ -30,7 +30,7 @@ export default {
   props: ['clicker', 'allSections'],
   methods: {
     dodaj() {
-
+     if (this.clicker < this.allSections) {
       this.$emit('clicker', this.clicker++);
       let numberX = this.clicker;
       let numberXS = numberX -1;
@@ -41,12 +41,14 @@ export default {
       gsap.to(loader1, { y: '-40%', opacity: 0, display: "none"});
       gsap.from(loader2, 1.6, {delay: 1.6, display: "block", y: '40%', opacity: 0, });
       gsap.to(loader2, 1.6, {delay: 2.6,  display: "block",  backgroundColor: '#000', color: '#fff'});
-
+}
 
 
 
     },
     odejmij() {
+
+           if (this.clicker > 1) {
       this.$emit('clicker', this.clicker--);
       let numberXW = this.clicker + 1;
       let numberPW = 'section:nth-child(' + numberXW + ')';
@@ -59,7 +61,7 @@ export default {
       gsap.to(load, {y: '100%', opacity: 0, display: "none" });
       gsap.from(load2, 0.6, {delay: 0.6, display: "block", y: '-100%', opacity: 0, });
       gsap.to(load2, 0.6, { delay: 1.6, display: "block",  y: '0', opacity: 1, backgroundColor: '#000', color: '#fff'});
-
+}
 
 
     }

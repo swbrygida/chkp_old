@@ -5,7 +5,7 @@
         Wielka Wojna z&nbsp;zakonem krzyżackim w&nbsp;latach 1409 – 1411
       </h3>
   <div class="figure">
-  <img src="../assets/fotosy/bitwa.jpg" />
+  <img src="../assets/fotosy/Jan_Matejko,_Bitwa_pod_Grunwaldem.jpg" alt="" />
   </div>
 <p>Obraz Jana Matejki „Bitwa pod&nbsp;Grunwaldem” – postacie:</p>
   <ol>

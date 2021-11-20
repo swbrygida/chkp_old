@@ -71,6 +71,7 @@ transform: scale(1.1,1.1) rotate(1deg);
 transition: all 50s;
 }
 @media screen  and (orientation: portrait) {
+
   h3 {
     font-size: 1.1rem;
     z-index: 44;
