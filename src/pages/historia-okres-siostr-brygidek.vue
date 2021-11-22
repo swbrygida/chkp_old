@@ -214,6 +214,8 @@
   <Arrows
   :clicker="clicker"
   :allSections="allSections"
+  :level2="level2"
+  :level3="level3"
      />
   </Layout>
   </template>
@@ -239,7 +241,9 @@
     return {
       poziom:1,
       clicker: 1,
-      allSections: 30
+      allSections: 30,
+      level2: 8,
+      level3: 16
     }
   }
 }

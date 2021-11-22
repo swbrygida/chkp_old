@@ -9,7 +9,7 @@
 
 <p>Specjalnie na&nbsp;potrzeby instalacji, wykorzystano również zdigitalizowane zasoby w&nbsp;ramach działania – Kultura Cyfrowa 2016 i&nbsp;2017 zasoby – które stworzyły autorski zaanimowany i&nbsp;wymodelowany materiał video, 3D.</p>
 
-<img src="../assets/fotosy/faza1a.webp" alt="dfvfv"  style="max-width: 45vw">
+<img src="../assets/fotosy/faza5a.webp" alt="dfvfv"  style="max-width: 45vw">
 
 
 <p>Wszystko zostało ujęte w&nbsp;formie interaktywnej aplikacji, dostępnej na&nbsp;stole multimedialnym i&nbsp;w&nbsp;Internecie.</p>
@@ -133,11 +133,30 @@
 </Layout>
 </template>
 <script>
+import { TimelineLite, TweenMax, gsap } from 'gsap';
+import Arrows from '~/components/Arrows.vue';
 
+  export default {
+    mounted() {
+      let numberX = this.clicker;
+      let numberP = 'section:nth-child(' + numberX + ')';
+      let loader2 = document.querySelector(numberP)
+      // timeline.from(loader2, 1.6, {visibility: "visible", x: '-100%', opacity: 0,}).to(loader2, 1, {visibility: "visible", backgroundColor: '#FF0000', color: 'green '});
+      gsap.from(loader2, 1.6, {display: "block", y: '100%', opacity: 0,});
+      gsap.to(loader2, 1, {delay: 1.6, display: "block", backgroundColor: '#000', color: 'white '});
+    },
+    data() {
+      return {
+        poziom:1,
+        clicker: 1,
+        allSections: 1
+      }
+    }
+  }
 </script>
 <style>
 p {
-  max-width: 45vw;
+  max-width: 75vw;
   font-size: 1.2em;
   color: #fff;
 }

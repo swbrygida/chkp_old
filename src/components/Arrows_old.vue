@@ -2,31 +2,22 @@
   <div class="counter2">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
 
-<ul>
 
 
-  <li  @click="dodaj">
-  <a href="#">
+  <a href="#" @click="dodaj">
   <i class="fas fa-angle-double-down"></i>
   </a>
-  </li>
-  <li>
   <a href="#">
-  <i class="">{{clicker}}</i>
+  <p class="sekcje">POZIOM 1 <br>{{clicker}}/{{allSections}}</p>
   </a>
-  </li>
-  <li @click="odejmij">
-  <a href="#">
+
+  <a href="#"  @click="odejmij">
   <i class="fas fa-angle-double-up" ></i>
   </a>
-  </li>
-  <li>
 <a href="/menu/">
 <i class="fas fa-solid fa-bars"></i>
 </a>
-  </li>
 
-  </ul>
 
 
   </div><!-- koniec counter -->
@@ -39,7 +30,7 @@ export default {
   props: ['clicker', 'allSections'],
   methods: {
     dodaj() {
-
+     if (this.clicker < this.allSections) {
       this.$emit('clicker', this.clicker++);
       let numberX = this.clicker;
       let numberXS = numberX -1;
@@ -50,12 +41,14 @@ export default {
       gsap.to(loader1, { y: '-40%', opacity: 0, display: "none"});
       gsap.from(loader2, 1.6, {delay: 1.6, display: "block", y: '40%', opacity: 0, });
       gsap.to(loader2, 1.6, {delay: 2.6,  display: "block",  backgroundColor: '#000', color: '#fff'});
-
+}
 
 
 
     },
     odejmij() {
+
+           if (this.clicker > 1) {
       this.$emit('clicker', this.clicker--);
       let numberXW = this.clicker + 1;
       let numberPW = 'section:nth-child(' + numberXW + ')';
@@ -68,7 +61,7 @@ export default {
       gsap.to(load, {y: '100%', opacity: 0, display: "none" });
       gsap.from(load2, 0.6, {delay: 0.6, display: "block", y: '-100%', opacity: 0, });
       gsap.to(load2, 0.6, { delay: 1.6, display: "block",  y: '0', opacity: 1, backgroundColor: '#000', color: '#fff'});
-
+}
 
 
     }
@@ -77,81 +70,71 @@ export default {
 </script>
 <style scoped>
 @media screen  and (orientation: portrait) {
-  ul {
+  .counter2 {
   margin: 0 ;
   padding: 1vh 0;
-  width: 99vw;
+  width: 100vw;
   height: 30vh;
   display: flex;
-  justify-content: flex-end;
+  justify-content: space-around;
   position: fixed;
-  bottom: 20vh;
+  bottom: 0;
   right: 0;
   max-height: 19vw;
+  background: #333;
 
+  }
+  .sekcje {
+    font-size: 0.4em;
+    margin: -10vh 0 0 0  ;
+    color: gray;
   }
 }
 
 @media screen  and (orientation: landscape) {
-  ul {
+  .counter2 {
   margin: 0 ;
   padding: 1vh 0;
-  width: 99vw;
-  height: 20vh;
+  width: 48vh;
+  height: 11vh;
   display: flex;
-  justify-content: flex-end;
+  justify-content: space-between;
   position: fixed;
   bottom: 0;
   right: 0;
+  background: #333;
+
+  }
+  .sekcje {
+    font-size: 0.4em;
+    margin: -10vh 0 0 0 ;
+    color: gray;
 
   }
 }
 
 
-
-ul li {
-list-style: none;
-margin: 0 1vw;
-width: 8vh;
-height: 8vh;
-}
-
-ul li a {
-  position: relative;
-  display: block;
-  width: 8vh;
-  height: 8vh;
+a {
+  width: 11vh;
+  height: 11vh;
+  padding: 1vh 1vw;
   text-align: center;
-  line-height: 3px;
+font-size: 1.9em;
+padding: 3vh 0;
   background: #333;
-  border-radius: 50%;
-  font-size: 30px;
+  /* border-radius: 50%; */
+
   color: #666;
   transition: .5s;
 }
 
-ul li a::before {
-content: '';
-position: absolute;
-top: 0;
-left: 0;
-width: 100%;
-height: 100%;
-border-radius: 50%;
-background: #ffee10;
-transition: .5s;
-transform: scale(.9);
-z-index: -1;
-}
 
-ul li a:hover::before {
-transform: scale(1.1);
-box-shadow: 0 0 15px #ffee10;
-}
 
-ul li a:hover {
+a:hover {
 color: #ffee10;
 box-shadow: 0 0 5px #ffee10;
 text-shadow: 0 0 5px #ffee10;
 }
+
+
 </style>

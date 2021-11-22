@@ -94,10 +94,12 @@
 
 
 
-  <Arrows
-  :clicker="clicker"
-  :allSections="allSections"
-     />
+    <Arrows
+    :clicker="clicker"
+    :allSections="allSections"
+    :level2="level2"
+    :level3="level3"
+       />
 </Layout>
 </template>
 
@@ -122,7 +124,9 @@ export default {
     return {
       poziom:1,
       clicker: 1,
-      allSections: 13
+      allSections: 13,
+      level2: 2,
+      level3: 5
 
     }
   }

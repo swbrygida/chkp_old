@@ -26,7 +26,7 @@
     </ul>
   </section>
     <section>
-    <div class="figure"><img src="../assets/fotosy/Kosciol-Pobrygidkowski-wnetrze.jpg"alt=""></div>
+    <div class="figure"><img src="../assets/fotosy/Sanktuarium-sw.-Brygidy.jpg"alt=""></div>
     <p>W związku z realizacją projektu pn. Renowacja zespołu pobrygidkowskiego śródmieściu miasta Lublina, zostały wprowadzone w zabytkowym obiekcie nowe funkcje: edukacyjne, kulturalne i turystyczne. Utworzono: kaplicę grunwaldzką, sanktuarium św. Brygidy, Lubelskie Sanktuarium Pamięci Narodowej oraz ekspozycje historyczna, numizmatyczna i archeologiczna w wieży kościoła z chórem i kryptach.</p>
   </section>
   <section>
@@ -156,6 +156,8 @@
   <Arrows
   :clicker="clicker"
   :allSections="allSections"
+  :level2="level2"
+  :level3="level3"
      />
   </Layout>
   </template>
@@ -181,7 +183,9 @@
     return {
       poziom:1,
       clicker: 1,
-      allSections: 22
+      allSections: 22,
+      level2: 4,
+      level3: 9
     }
   }
 }

@@ -9,7 +9,8 @@
   <p><strong>1903 – 1935 Ks. kan. Jan WŁADZIŃSKI (1861-1935)</strong>. Kanonik Kapituły Kolegiaty Zamojskiej. Zasłużony rektor i od­nowiciel kościoła. Autor broszury pt. „Grunwald a Kościół Panny Maryi w Lublinie 1410­-1910”. Inicjator i realizator popiersia króla Władysława Jagiełły i pamiątkowej tablicy 1410-1910 w 500 rocznicę zwycięstwa pod Grunwaldem nad Zakonem Krzyżackim oraz Pomnika z prawej strony kościoła. Pamiątkowa tablica epitafijna znaj­duje się w nawie bocznej.</p>
 </section>
   <section>
-  <div class="figure"><img src="../assets/fotosy/ks.Gostynski-Kazimierz.jpg" alt=""></div>
+  <div class="figure"><img src="../assets/fotosy/GOST22.jpg" alt=""></div>
+  <div class="figure"><img src="../assets/fotosy/GOST222.jpg" alt=""></div>
   <p><strong>1935 – 11.1.1940 Ks. kan. Kazimierz GOSTYŃSKI (8.IV.1884-6.V.1942)</strong> Aresztowany przez gestapo i zamordowany w komo­rze gazowej w Dachau. Pamiątkowa tablica epitafijna została poświęcona przez abp Bolesława Pylaka w dniu 9.05.1992 r. i znajduje się w prawej nawie kościoła.</p>
 </section>
   <section>
@@ -68,53 +69,55 @@
 </section>
   <section>
   <p><strong>KSIĘŻA ZWIĄZNI Z KOŚCIOŁEM:</strong></p>
-  <p>ks. Andrzej Chlastawa</p>
-  <p>ks. Piotr Kurowski</p>
-  <p>ks. Franciszek Jakubczyk</p>
-  <p>ks. Bolesław Szklarczyk</p>
-  <p>Ks. Władysław Zakrzewski</p>
-  <p>ks. Wawrzyniak</p>
-  <p>ks. Andrzej Maciąg</p>
-  <p>ks. Mieczysław Brzozowski</p>
-  <p>ks. Alfred Wierzbicki</p>
-  <p>ks. Michał Jabłoński</p>
-  <p>ks. Dionizy Pietrusiński</p>
-  <p>ks. Czesław Krakowiak</p>
-  <p>ks. Wacław Oszajca</p>
-  <p>ks. Mirosław Łopuch</p>
-  <p>ks. Piotr Rożek</p>
-  <p>ks. Hubert Czarnecki</p>
-  <p>ks. abp Zygmunt Kamiński</p>
-  <p>ks. Stefan Młynarczyk</p>
-  <p>ks. Cezary Rudzki</p>
-  <p>ks. Jarosław Woźniak</p>
-  <p>ks. Mikołaj Ścibior</p>
-  <p>ks. Mariusz Olszka</p>
-  <p>ks. Tadeusz Liminowicz</p>
-  <p>ks. Wiesław Janik</p>
-  <p>ks. Grzegorz Wojciechowski</p>
-  <p>ks. Zbigniew Czerwiński</p>
-  <p>ks. Franciszek Przytuła</p>
-  <p>ks. Mariusz Górniak</p>
-  <p>ks. Mieczysław Jabłoński</p>
-  <p>ks. Rafał Olchawski</p>
-  <p>ks. Jerzy Cieślicki</p>
-  <p>ks. Grzegorz Musiał</p>
-  <p>ks. Paweł Bartoszewski</p>
-  <p>ks. Andrzej Bubicz</p>
+  <p>ks. Andrzej Chlastawa</br>
+  ks. Piotr Kurowski</br>
+  ks. Franciszek Jakubczyk</br>
+  ks. Bolesław Szklarczyk</br>
+  Ks. Władysław Zakrzewski</br>
+  ks. Wawrzyniak</br>
+  ks. Andrzej Maciąg</br>
+  ks. Mieczysław Brzozowski</br>
+  ks. Alfred Wierzbicki</br>
+  ks. Michał Jabłoński</br>
+  ks. Dionizy Pietrusiński</br>
+  ks. Czesław Krakowiak</br>
+  ks. Wacław Oszajca</br>
+  ks. Mirosław Łopuch</br>
+  ks. Piotr Rożek</br>
+  ks. Hubert Czarnecki</br>
+  ks. abp Zygmunt Kamiński</br>
+  ks. Stefan Młynarczyk</br>
+  ks. Cezary Rudzki</br>
+  ks. Jarosław Woźniak</br>
+  ks. Mikołaj Ścibior</br>
+  ks. Mariusz Olszka</br>
+  ks. Tadeusz Liminowicz</br>
+  ks. Wiesław Janik</br>
+  ks. Grzegorz Wojciechowski</br>
+  ks. Zbigniew Czerwiński</br>
+  ks. Franciszek Przytuła</br>
+  ks. Mariusz Górniak</br>
+  ks. Mieczysław Jabłoński</br>
+  ks. Rafał Olchawski</br>
+  ks. Jerzy Cieślicki</br>
+  ks. Grzegorz Musiał<br>
+  ks. Paweł Bartoszewski</br>
+  ks. Andrzej Bubicz</p>
   <p><strong>Obecnie:</strong></p>
-  <p>ks. Dariusz Bondyra</p>
-  <p>ks. Jarosław Jęczeń</p>
-  <p>ks. Marcin Zieliński</p>
-  <p>ks. Piotr Goliszek</p>
-  <p>ks. Piotr Tylus</p>
-  <p>ks. Tomasz Adamczyk</p>
-  <p>ks. Franciszek Przytuła</p>
+  <p>ks. Dariusz Bondyra</br>
+  ks. Jarosław Jęczeń</br>
+  ks. Marcin Zieliński</br>
+  ks. Piotr Goliszek</br>
+  ks. Piotr Tylus</br>
+  ks. Tomasz Adamczyk</br>
+  ks. Franciszek Przytuła</p>
 </section>
 
 <Arrows
 :clicker="clicker"
 :allSections="allSections"
+:level2="level2"
+:level3="level3"
    />
 </Layout>
 </template>
@@ -139,7 +142,10 @@ mounted() {
   data() {
     return {
       poziom:1,
-      clicker: 1
+      clicker: 1,
+      allSections: 14,
+      level2: 15,
+      level3: 15
     }
   }
 }

@@ -5,7 +5,7 @@
         Wielka Wojna z&nbsp;zakonem krzyżackim w&nbsp;latach 1409 – 1411
       </h3>
   <div class="figure">
-  <img src="../assets/fotosy/Jan_Matejko,_Bitwa_pod_Grunwaldem.jpg" alt="" />
+  <img class="krzyzacy" src="../assets/fotosy/Jan_Matejko,_Bitwa_pod_Grunwaldem.jpg" alt="" />
   </div>
 <p>Obraz Jana Matejki „Bitwa pod&nbsp;Grunwaldem” – postacie:</p>
   <ol>
@@ -26,7 +26,7 @@
 <section>
   <h3>Tło bitwy pod&nbsp;Grunwaldem.</h3>
   <div class="figure">
-  <img src="../assets/fotosy/Dwa-nagie-miecze.jpg" />
+  <div class="figure"><img src="../assets/fotosy/Ekspozycja-historyczna-1.jpg"alt=""></div>
   </div>
   </section>
 <section>
@@ -155,10 +155,11 @@
 
 
 
-
 <Arrows
 :clicker="clicker"
 :allSections="allSections"
+:level2="level2"
+:level3="level3"
    />
 </Layout>
 </template>
@@ -184,7 +185,9 @@ mounted() {
     return {
       poziom:1,
       clicker: 1,
-      allSections: 25
+      allSections: 25,
+      level2: 2,
+      level3: 4
     }
   },
   methods: {
@@ -215,5 +218,8 @@ mounted() {
 <style scoped>
   ol li {
     margin: 3vh 0;
+  }
+  img.krzyzacy {
+    transform: scale(2.8) translate(20vw, 10vh);
   }
 </style>

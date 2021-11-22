@@ -24,7 +24,7 @@
       <div class="promo" style="--overlay-color: orange">
         <g-link to="/zwyciestwo/">
         <div class="image-wrapper ruch" >
-          <g-image src="~/assets/fotosy/Grunwald.jpg" width="500"/>
+          <g-image src="~/assets/fotosy/Pomnik-pod-Grunwaldem.jpg" width="500"/>
         </div></g-link>
         <h2 class="title" data-cta="w bitwie pod Grunwaldem →">Zwycięstwo Jagiełły</h2>
       </div>

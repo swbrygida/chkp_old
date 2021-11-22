@@ -349,6 +349,8 @@
     <Arrows
     :clicker="clicker"
     :allSections="allSections"
+    :level2="level2"
+    :level3="level3"
        />
     </Layout>
     </template>
@@ -373,12 +375,17 @@
   data() {
     return {
       poziom:1,
-      clicker: 1
+      clicker: 1,
+      allSections: 81,
+      level2: 82,
+      level3: 82
     }
   }
 }
 
 </script>
 <style scoped>
-
+p {
+  font-size: 2.8em;
+}
 </style>

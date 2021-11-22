@@ -3,13 +3,13 @@
 
 
 <section>
+  <div class="figure"><img src="../assets/fotosy/Popiersie-i-tablica.jpg" alt=""></div>
     <h4>„ŚWIĄTYNIĘ TĘ WZNIÓSŁ KRÓŁ WŁADYSŁAW JAGIEŁŁO/<br>
     NA PAMIĄTKĘ ZWYCIĘSTWA ODNIESIONEGO /<br>
     POD GRUNWALDEM<br>
     D. 15 LIPCA 1410 ROKU<br>
     W PIĘĆSETNĄ ROCZNICĘ<br>
     WDZIĘCZNA POTOMNOŚĆ TABLICĘ TĘ POŁOŻYŁA”.</h4>
-    <div class="figure"><img src="../assets/fotosy/Popiersie-i-tablica.jpg" alt=""></div>
   </section>
     <section>
     <p>Król Władysław Jagiełło po bitwie, która miała miejsce 15 lipca 1410 r. pod Grunwaldem, jako dziękczynienie za zwycięstwo nad Krzyżakami, ufundował w Lublinie pomnik wdzięczności – kościół wraz z klasztorem, do którego sprowadził Zakon Najświętszego Zbawiciela św. Brygidy.</p>
@@ -97,6 +97,8 @@
   <Arrows
   :clicker="clicker"
   :allSections="allSections"
+  :level2="level2"
+  :level3="level3"
      />
   </Layout>
   </template>
@@ -122,7 +124,9 @@
     return {
       poziom:1,
       clicker: 1,
-      allSections: 12
+      allSections: 12,
+      level2: 3,
+      level3: 6
     }
   }
 }

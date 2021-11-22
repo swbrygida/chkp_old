@@ -8,7 +8,7 @@
   <i class="fas fa-angle-double-down"></i>
   </a>
   <a href="#">
-  <i class="">{{clicker}}/{{allSections}}</i>
+  <p class="sekcje">POZIOM {{ktorypoziom}} <br>{{slajd}}/{{slajdy}}</p>
   </a>
 
   <a href="#"  @click="odejmij">
@@ -27,7 +27,19 @@
 import { TimelineLite, TweenMax, gsap } from 'gsap';
 
 export default {
-  props: ['clicker', 'allSections'],
+  props: ['clicker', 'allSections', 'level2', 'level3'],
+  data() {
+    return {
+      ktorypoziom: 1,
+      slajd: 1,
+      slajdy: 1
+    }
+  },
+  mounted() {
+
+    let ileslajdow = this.level2 - 1;
+    this.slajdy = ileslajdow;
+  },
   methods: {
     dodaj() {
      if (this.clicker < this.allSections) {
@@ -41,7 +53,19 @@ export default {
       gsap.to(loader1, { y: '-40%', opacity: 0, display: "none"});
       gsap.from(loader2, 1.6, {delay: 1.6, display: "block", y: '40%', opacity: 0, });
       gsap.to(loader2, 1.6, {delay: 2.6,  display: "block",  backgroundColor: '#000', color: '#fff'});
-}
+
+};
+if (this.clicker < this.level2){
+  this.slajd = this.clicker;
+} else if (this.clicker >= this.level2 && this.clicker < this.level3) {
+  this.ktorypoziom = 2;
+  this.slajdy = this.level3 - this.level2;
+  this.slajd = this.clicker -this.level2 + 1;
+} else if (this.clicker >= this.level3) {
+  this.ktorypoziom = 3;
+  this.slajdy = this.allSections - this.level3 +1;
+  this.slajd = this.clicker -this.level3 + 1;
+};
 
 
 
@@ -61,11 +85,25 @@ export default {
       gsap.to(load, {y: '100%', opacity: 0, display: "none" });
       gsap.from(load2, 0.6, {delay: 0.6, display: "block", y: '-100%', opacity: 0, });
       gsap.to(load2, 0.6, { delay: 1.6, display: "block",  y: '0', opacity: 1, backgroundColor: '#000', color: '#fff'});
-}
+};
+if (this.clicker < this.level2){
+  this.slajd = this.clicker;
+  this.ktorypoziom = 1;
+  this.slajdy = this.level2 -1;
+} else if (this.clicker >= this.level2 && this.clicker < this.level3) {
+  this.ktorypoziom = 2;
+  this.slajdy = this.level3 - this.level2;
+  this.slajd = this.clicker -this.level2 + 1;
+} else if (this.clicker >= this.level3) {
+  this.ktorypoziom = 3;
+  this.slajdy = this.allSections - this.level3 +1;
+  this.slajd = this.clicker -this.level3 + 1;
+};
 
 
-    }
+
   }
+}
 }
 </script>
 <style scoped>
@@ -84,6 +122,11 @@ export default {
   background: #333;
 
   }
+  .sekcje {
+    font-size: 0.4em;
+    margin: -10vh 0 0 0  ;
+    color: gray;
+  }
 }
 
 @media screen  and (orientation: landscape) {
@@ -100,6 +143,12 @@ export default {
   background: #333;
 
   }
+  .sekcje {
+    font-size: 0.4em;
+    margin: -10vh 0 0 0 ;
+    color: gray;
+
+  }
 }
 
 
@@ -108,7 +157,8 @@ a {
   height: 11vh;
   padding: 1vh 1vw;
   text-align: center;
-
+font-size: 1.9em;
+padding: 3vh 0;
   background: #333;
   /* border-radius: 50%; */
 
@@ -123,4 +173,6 @@ color: #ffee10;
 box-shadow: 0 0 5px #ffee10;
 text-shadow: 0 0 5px #ffee10;
 }
+
+
 </style>

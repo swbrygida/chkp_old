@@ -135,6 +135,8 @@
     <Arrows
     :clicker="clicker"
     :allSections="allSections"
+    :level2="level2"
+    :level3="level3"
        />
   </Layout>
   </template>
@@ -160,7 +162,9 @@
     return {
       poziom:1,
       clicker: 1,
-      allSections: 17
+      allSections: 17,
+      level2: 2,
+      level3: 5
     }
   },
   methods: {
@@ -189,41 +193,5 @@
 
 </script>
 <style scoped>
-
-@media screen  and (orientation: portrait) {
-  h3 {
-    font-size: 1.4rem;
-    z-index: 44;
-    padding: 10vh 0;
-  }
-  a, ul, ol, p {
-      color: #fff;
-      max-width: 90vw;
-      font-size: 1.2em;
-      padding: 10vh 0;
-      line-height: 1.1em;
-  }
-}
-@media screen  and (orientation: landscape) {
-  h3 {
-    font-size: 2.4rem;
-    position: relative;
-    top: 30vh;
-    z-index: 44;
-    padding-left: 10vw;
-    margin-top: -20vh;
-  }
-  a, ul, ol, p {
-      color: #fff;
-      max-width: 75vw;
-      font-size: 1.6em;
-      overflow: hidden;
-      padding: 10vh 0;
-      line-height: 1.4em;
-  }
-  img.small {
-    width: 40%;
-  }
-}
 
 </style>
