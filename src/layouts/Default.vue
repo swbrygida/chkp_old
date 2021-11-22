@@ -38,6 +38,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    min-height: 110vh;
 
 }
 
@@ -81,7 +82,7 @@ transition: all 50s;
       color: #fff;
       max-width: 90vw;
       font-size: 1.2em;
-      padding: 10vh 0;
+      padding: 10vh 2vw;
       line-height: 1.1em;
   }
   .brygida_logo {
@@ -112,10 +113,10 @@ transition: all 50s;
   }
   ul, ol, p {
       color: #fbfbfb;
-      max-width: 75vw;
+      max-width: 70vw;
       font-size: 1.9em;
       overflow: hidden;
-      padding: 3vh 0;
+      padding: 3vh 15vw;
       line-height: 1.9em;
   }
   .brygida_logo {

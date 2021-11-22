@@ -2,26 +2,57 @@
   <Layout>
     <section>
       <h3>
-        Wielka Wojna z&nbsp;zakonem krzyżackim w&nbsp;latach 1409 – 1411
+        Obraz Jana Matejki „Bitwa pod&nbsp;Grunwaldem”
       </h3>
   <div class="figure">
   <img class="krzyzacy" src="../assets/fotosy/Jan_Matejko,_Bitwa_pod_Grunwaldem.jpg" alt="" />
   </div>
-<p>Obraz Jana Matejki „Bitwa pod&nbsp;Grunwaldem” – postacie:</p>
-  <ol>
+
+  <ul class="postacie">
+    <li class="reset" @click="postac0">RESET</li>
+    <li @click="postac1">1</li>
+    <li @click="postac2">2</li>
+    <li @click="postac3">3</li>
+    <li @click="postac4">4</li>
+    <li @click="postac5">5</li>
+    <li @click="postac6">6</li>
+    <li @click="postac7">7</li>
+    <li @click="postac8">8</li>
+    <li @click="postac9">9</li>
+    <li @click="postac10">10</li>
+    <li @click="postac11">11</li>
+    <li @click="postac12">12</li>
+  </ul>
+
+</div>
+  <ul class="postaciMobile">
+    <p>Postacie:</p>
+
+    <li><div class="figure"><img src="../assets/fotosy/postac1.png" alt="" /></div></li>
   <li>Kazimierz V (1380 – 1435) – Książe szczeciński z&nbsp;pomorskiej dynastii Gryfitów, sojusznik Krzyżaków w&nbsp;Bitwie pod&nbsp;Grunwaldem. Wzięty do&nbsp;niewoli przez&nbsp;Jakuba Skarbka. Uwolniony w&nbsp;1411 roku. (Lewa strona obrazu, po&nbsp;prawej ręce od&nbsp;Wielkiego Mistrza, na&nbsp;koniu, wyjmuje miecz z&nbsp;pochwy zamachuje się nim).</li>
+  <li><div class="figure"><img src="../assets/fotosy/postac2.png" alt="" /></div></li>
   <li>Jakub Skarbek z&nbsp;Góry h. Abdank (ur.? – 1438) – rycerz polski, możnowładca, dyplomata, służący przez&nbsp;wiele lat na&nbsp;dworze króla Węgier. Podczas bitwy strzegł chorągwi królewskiej wraz z&nbsp;oddziałem 8 najlepszych rycerzy. Po&nbsp;bitwie wypełniał ważne misje dyplomatyczne dla króla Władysława Jagiełły. (Lewa strona obrazu, po&nbsp;prawej ręce od&nbsp;Wielkiego Mistrza, szarżuje z&nbsp;kopia na&nbsp;koniu, twarz odsłonięta).</li>
+  <li><div class="figure"><img src="../assets/fotosy/postac3.png" alt="" /></div></li>
   <li>Urlich von Jungingen (1360 – 1410) – Wielki Mistrz Zakonu Krzyżackiego, w&nbsp;bitwie pod&nbsp;Grunwaldem dowodził całością wojsk krzyżackich, poległ w&nbsp;bitwie.</li>
+  <li><div class="figure"><img src="../assets/fotosy/postac4.png" alt="" /></div></li>
   <li>Werner von Tettingen (1350 – 1413) – Wielki Szpitalnik Zakonu i&nbsp;Komtur Elbląga pochodzący ze&nbsp;Szwajcarii. Podczas bitwy odpowiadał za&nbsp;opiekę sanitarną całej krzyżackiej armii i&nbsp;dowodził Chorągwią Komturii Elbląskiej. Zbiegł z&nbsp;pola bitwy, schronił się w&nbsp;Elblągu a&nbsp;następnie wziął udział w&nbsp;obronie Malborka. (Lewa strona obrazu, po&nbsp;prawej ręce od&nbsp;Wielkiego Mistrza u&nbsp;dołu, podnosi ręce do&nbsp;góry w&nbsp;geście rozpaczy).</li>
+  <li><div class="figure"><img src="../assets/fotosy/postac5.png" alt="" /></div></li>
   <li>Konrad VII Biały (1390 – 1492) – Książe z&nbsp;dynastii Piastów śląskich, w&nbsp;bitwie pod&nbsp;Grunwaldem walczył po&nbsp;stronie Zakonu Krzyżackiego. Dostał się do&nbsp;niewoli, uwolniony przez&nbsp;króla Władysława Jagiełłę zaraz po&nbsp;bitwie. (Leży u&nbsp;dołu obrazu – spada z&nbsp;konia – między wielkim mistrzem a&nbsp;Witoldem, w&nbsp;lewej ręce ma berło).</li>
+  <li><div class="figure"><img src="../assets/fotosy/postac6.png" alt="" /></div></li>
   <li>Konrad von Lichtenstein (1360 -1410) – Wielki Komtur Malbork od&nbsp;1404 roku w&nbsp;czasie bitwy dowodził chorągwią Wielkiej Komturii wystawioną przez&nbsp;miasto Sztum. Poległ w&nbsp;bitwie. (Leży na&nbsp;dole obrazu za&nbsp;Konradem Białym VII miedzy Wielkim Mistrzem a&nbsp;Witoldem).</li>
+  <li><div class="figure"><img src="../assets/fotosy/postac7.png" alt="" /></div></li>
   <li>Witold Kiejstutowicz – Wielki Książe Litewski, brat stryjeczny króla Władysława Jagiełły, w&nbsp;bitwie dowodził wojskami litewsko – ruskimi, tatarskimi i&nbsp;mołdawskimi. (Centralna postać obrazu).</li>
+  <li><div class="figure"><img src="../assets/fotosy/postac8.png" alt="" /></div></li>
   <li>Marcin z&nbsp;Wrocimowic h. Półkozic (ur. ? – 1442) – polski rycerz, chorąży krakowski, podczas bitwy niósł Wielką Chorągiew Królestwa Polskiego. Po&nbsp;bitwie służył królowi Władysławowi Jagielle jako dyplomata. (Na&nbsp;obrazie po&nbsp;prawej stronie, po&nbsp;lewej ręce Witolda, dmie w&nbsp;róg w&nbsp;ręku trzyma chorągiew).</li>
+  <li><div class="figure"><img src="../assets/fotosy/postac9.png" alt="" /></div></li>
   <li>Jan Żiżka z&nbsp;Trocnowa (1370 – 1424) – czeski bohater narodowy, wybitny strateg wojskowy, w&nbsp;bitwie służył jako najemnik w&nbsp;oddziale Jan Sokola z&nbsp;Lamberka i&nbsp;walczył po&nbsp;stronie polsko – litewskiej. Po&nbsp;bitwie brał czynny udział w&nbsp;wojnach husyckich jako przywódca Taborytów. Genialny dowódca który&nbsp;nie&nbsp;przegrał żadnej bitwy. (Na&nbsp;obrazie po&nbsp;prawej stronie u&nbsp;dołu, pomiędzy Witoldem a&nbsp;Zawiszą Czarnym, tnie mieczem krzyżackiego komtura).</li>
+  <li><div class="figure"><img src="../assets/fotosy/postac10.png" alt="" /></div></li>
   <li>Zawisza Czarny z&nbsp;Garbowa h. Sulima (1380 – 1428) – najsłynniejszy polski rycerz epoki średniowiecza, związany z&nbsp;dworem króla Węgier a&nbsp;następnie z&nbsp;dworem Polski. Brał udział w&nbsp;licznych wyprawach wojennych. Sławił się pokonaniem podczas turnieju we&nbsp;Francji najsłynniejszego rycerza swoich czasu Jana z&nbsp;Aragonii. Po&nbsp;bitwie wypełniał wiele ważnych misji politycznych dla króla Władysława Jagiełły. Zginął podczas wyprawy węgierskiej przeciwko Turkom w&nbsp;1428 roku. (Prawa strona obrazu, po&nbsp;lewej ręce Witolda, naciera konno z&nbsp;kopią).</li>
+  <li><div class="figure"><img src="../assets/fotosy/postac11.png" alt="" /></div></li>
   <li>Markward von Salzbach (ur. ? – 1410) – Komtur Brandenburga, wysłannik Wielkiego Mistrza Zakonu Krzyżackiego na&nbsp;negocjacje z&nbsp;księciem Witoldem przed&nbsp;wielką wojną polsko – krzyżacką. Podczas bitwy wzięty do&nbsp;niewoli i&nbsp;ścięty na&nbsp;rozkaz Witolda. (Prawa strona obrazu, upada z&nbsp;konia, na&nbsp;szyi zaciska mu się arkan, bez&nbsp;hełmu).</li>
+  <li><div class="figure"><img src="../assets/fotosy/postac12.png" alt="" /></div></li>
   <li>Heinrich von Plauen (1370 – 1429) – Komtur Świecia, nie&nbsp;brał udziału w&nbsp;bitwie pod&nbsp;Grunwaldem. Dowodził obroną Malborka, podczas oblężenia polsko-litewskiego, po&nbsp;jego odparciu został obrany Wielkim Mistrzem Zakonu Krzyżackiego. (Prawa strona obrazu, na&nbsp;koniu z&nbsp;mieczem i&nbsp;hełmem z&nbsp;pawimi piórami).</li>
-  </ol>
+</ul>
 </section>
 <section>
   <h3>Tło bitwy pod&nbsp;Grunwaldem.</h3>
@@ -187,39 +218,130 @@ mounted() {
       clicker: 1,
       allSections: 25,
       level2: 2,
-      level3: 4
+      level3: 4,
+      postac: 0
     }
   },
   methods: {
-    dodaj() {
-      const timeline = new TimelineLite()
-      this.clicker++;
-      let numberX = this.clicker;
-      let numberXS = numberX -1;
-      let numberPS = 'section:nth-child(' + numberXS + ')';
-      let numberPN = 'section:nth-child(' + numberX + ')';
-      let loader1 = document.querySelector(numberPS)
-      let loader2 = document.querySelector(numberPN)
-      timeline.to(loader1, { y: '-100%', opacity: 0, display: "none"})
-      .from(loader2, 1.6, {display: "block", y: '100%', opacity: 0, })
-      .to(loader2, 1, { display: "block"});
-
-
-
+    postac0 () {
+      let obrazek = document.querySelector(".krzyzacy")
+      gsap.to(obrazek, 1.6, { scale: 1, x: 0, y: 0});
+    },
+    postac1 () {
+      let obrazek = document.querySelector(".krzyzacy");
+      gsap.to(obrazek, 1.6, { scale: 5.5, x: 3000, y: 500});
 
     },
-    odejmij() {
-      this.clicker--;
-    }
+    postac2 () {
+      let obrazek = document.querySelector(".krzyzacy")
+      gsap.to(obrazek, 1.6, { scale: 5.5, x: 3400, y: 400});
+    },
+    postac3 () {
+      let obrazek = document.querySelector(".krzyzacy")
+      gsap.to(obrazek, 1.6, { scale: 5.5, x: 1800, y: 300});
+    },
+    postac4 () {
+      let obrazek = document.querySelector(".krzyzacy")
+      gsap.to(obrazek, 1.6, { scale: 5.5, x: 2200, y: -300});
+    },
+    postac5 () {
+      let obrazek = document.querySelector(".krzyzacy")
+      gsap.to(obrazek, 1.6, { scale: 5.5, x: 200, y: -900});
+    },
+    postac6 () {
+      let obrazek = document.querySelector(".krzyzacy")
+      gsap.to(obrazek, 1.6, { scale: 5.5, x: 800, y: -1200});
+    },
+    postac7 () {
+      let obrazek = document.querySelector(".krzyzacy")
+      gsap.to(obrazek, 1.6, { scale: 5.5, x: -300, y: 500});
+    },
+    postac8 () {
+      let obrazek = document.querySelector(".krzyzacy")
+      gsap.to(obrazek, 1.6, { scale: 5.5, x: -1000, y: 500});
+    },
+    postac9 () {
+      let obrazek = document.querySelector(".krzyzacy")
+      gsap.to(obrazek, 1.6, { scale: 5.5, x: -1600, y: -300});
+    },
+    postac10 () {
+      let obrazek = document.querySelector(".krzyzacy")
+      gsap.to(obrazek, 1.6, { scale: 5.5, x: -2000, y: 500});
+    },
+    postac11 () {
+      let obrazek = document.querySelector(".krzyzacy")
+      gsap.to(obrazek, 1.6, { scale: 5.5, x: -3300, y: -400});
+    },
+    postac12 () {
+      let obrazek = document.querySelector(".krzyzacy")
+      gsap.to(obrazek, 1.6, { scale: 5.5, x: -3600, y: 400});
+    },
   }
 }
 
 </script>
 <style scoped>
+@media screen  and (orientation: landscape) {
+  .postaciMobile {
+    /* display: none; */
+  }
+  .postaciMobile li {
+    list-style: none;
+  }
+  li:nth-child(odd) {
+    margin: 0 1vw 25vh 1vw;
+  }
+  .postaciMobile img {
+    max-width: 35vw;
+  }
+
   ol li {
     margin: 3vh 0;
   }
   img.krzyzacy {
-    transform: scale(2.8) translate(20vw, 10vh);
+
   }
+  .postacie {
+    width: 90vw;
+    margin:  0 0 0 3vw;;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #333;
+
+  }
+  .postacie li {
+    margin: 1vh 1vw ;
+    text-decoration: none;
+    list-style: none;
+    background-color: #333;
+    color: gray;
+    width: 3vw;
+
+  }
+  .postacie li:hover {
+  color: #ffee10;
+  box-shadow: 0 0 5px #ffee10;
+  text-shadow: 0 0 5px #ffee10;
+  }
+  li.reset {
+    width: 6vw;
+  }
+
+
+}
+
+
+@media screen  and (orientation: portrait) {
+  .postacie {
+    display: none;
+  }
+  .postaciMobile li {
+    list-style: none;
+  }
+  li:nth-child(odd) {
+    margin: 0 1vw 15vh 1vw;
+  }
+}
+
 </style>

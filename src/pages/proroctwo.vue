@@ -30,7 +30,11 @@
   <div class="figure onme">
   <img src="../assets/fotosy/Brygida-zywot-proroctwo.jpg" />
   </div>
-  <p>Henryk Sienkiewicz przywołał te słowa za Janem Długoszem w „Krzyżakach” – „Na to podkanclerzy Mikołaj, który znał przepowiednie św. Brygidy, rzekł: Nadszedł czas, iż wyłamane są ich zęby i odcięta jest ich ręka prawa”. Zwycięstwo nad Krzyżakami odniesione przez króla Władysława Jagiełły pod Grunwaldem w 1410 roku stało się wypełnieniem przepowiedni świętej Brygidy sprzed kilkudziesięciu lat.</p>
+  <p>Henryk Sienkiewicz przywołał te słowa za Janem Długoszem w „Krzyżakach”
+    – „Na to podkanclerzy Mikołaj, który znał przepowiednie św. Brygidy, rzekł:
+    Nadszedł czas, iż wyłamane są ich zęby i odcięta jest ich ręka prawa”.
+    Zwycięstwo nad Krzyżakami odniesione przez króla Władysława Jagiełły pod Grunwaldem w 1410 roku
+    stało się wypełnieniem przepowiedni świętej Brygidy sprzed kilkudziesięciu lat.</p>
   </section>
   <section>
 
@@ -163,7 +167,7 @@ export default {
       clicker: 1,
       allSections: 17,
       level2: 2,
-      level3:3 
+      level3:3
     }
   }
 }

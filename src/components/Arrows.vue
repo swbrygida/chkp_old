@@ -8,7 +8,7 @@
   <i class="fas fa-angle-double-down"></i>
   </a>
   <a href="#">
-  <p class="sekcje">POZIOM {{ktorypoziom}} <br>{{slajd}}/{{slajdy}}</p>
+  <p class="sekcje"><span>POZIOM</span> {{ktorypoziom}} <br>{{slajd}}/{{slajdy}}</p>
   </a>
 
   <a href="#"  @click="odejmij">
@@ -52,7 +52,10 @@ export default {
       let loader2 = document.querySelector(numberPN)
       gsap.to(loader1, { y: '-40%', opacity: 0, display: "none"});
       gsap.from(loader2, 1.6, {delay: 1.6, display: "block", y: '40%', opacity: 0, });
+      gsap.to(loader2, 1.6, {delay: 0.6,  scrollTo: {y: -200} });
       gsap.to(loader2, 1.6, {delay: 2.6,  display: "block",  backgroundColor: '#000', color: '#fff'});
+
+
 
 };
 if (this.clicker < this.level2){
@@ -123,9 +126,12 @@ if (this.clicker < this.level2){
 
   }
   .sekcje {
-    font-size: 0.4em;
+    font-size: 0.6em;
     margin: -10vh 0 0 0  ;
     color: gray;
+  }
+  .sekcje span {
+    font-size: 0.4em;
   }
 }
 
@@ -144,10 +150,15 @@ if (this.clicker < this.level2){
 
   }
   .sekcje {
-    font-size: 0.4em;
+    font-size: 0.8em;
     margin: -10vh 0 0 0 ;
     color: gray;
+    padding: 8vh 0 0 0;
+    line-height: 1.2em;
 
+  }
+  .sekcje span {
+    font-size: 0.6em;
   }
 }
 
