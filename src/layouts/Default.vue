@@ -111,12 +111,20 @@ transition: all 50s;
       color: #fbfbfb;
       max-width: 75vw;
   }
-  ul, ol, p {
+  ul, ol {
       color: #fbfbfb;
       max-width: 70vw;
       font-size: 1.9em;
       overflow: hidden;
       padding: 3vh 15vw;
+      line-height: 1.9em;
+  }
+  ul, ol, p {
+      color: #fbfbfb;
+      max-width: 70vw;
+      font-size: 1.9em;
+      overflow: hidden;
+      padding: 3vh 15vw!important;
       line-height: 1.9em;
   }
   .brygida_logo {

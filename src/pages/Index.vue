@@ -53,12 +53,19 @@
           </div></g-link>
         <h2 class="title" data-cta="najważniejszych wydarzeń →">Kalendarium</h2>
       </div>
-      <div class="promo" style="--overlay-color: violet">
+      <div class="promo" style="--overlay-color: green">
         <g-link to="/rektorzy/">
         <div class="image-wrapper ruch" >
           <g-image src="~/assets/fotosy/ks. Bondyra Dariusz.JPG" width="500"/>
           </div></g-link>
         <h2 class="title" data-cta="oraz kapłani związani z kościołem →">Rektorzy</h2>
+      </div>
+      <div class="promo" style="--overlay-color: yellowgreen">
+        <g-link to="/info/">
+        <div class="image-wrapper ruch" >
+          <g-image src="~/assets/fotosy/info.png" width="500"/>
+          </div></g-link>
+        <h2 class="title" data-cta="o projekcie →">Informacje</h2>
       </div>
         </div><!-- koniec menu  -->
 
@@ -428,7 +435,7 @@ opacity: 1;
 
 }
 
-@media screen  and (orientation: portrait) {
+/* @media screen  and (orientation: portrait) {
   h3 {
     font-size: 1.4rem;
     z-index: 44;
@@ -462,7 +469,7 @@ opacity: 1;
   img.small {
     width: 40%;
   }
-}
+} */
 
 
 </style>

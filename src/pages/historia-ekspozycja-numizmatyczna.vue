@@ -35,6 +35,8 @@
 <Arrows
 :clicker="clicker"
 :allSections="allSections"
+:level2="level2"
+:level3="level3"
    />
 </Layout>
 </template>
@@ -60,7 +62,9 @@ mounted() {
     return {
       poziom:1,
       clicker: 1,
-      allSections: 5
+      allSections: 5,
+      level2: 6,
+      level3: 6
     }
   }
 }

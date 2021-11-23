@@ -22,6 +22,7 @@
     <li @click="postac10">10</li>
     <li @click="postac11">11</li>
     <li @click="postac12">12</li>
+
   </ul>
 
 </div>

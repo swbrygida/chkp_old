@@ -7,9 +7,10 @@
 
 
 
-<p>Specjalnie na&nbsp;potrzeby instalacji, wykorzystano również zdigitalizowane zasoby w&nbsp;ramach działania – Kultura Cyfrowa 2016 i&nbsp;2017 zasoby – które stworzyły autorski zaanimowany i&nbsp;wymodelowany materiał video, 3D.</p>
+<p>Specjalnie na&nbsp;potrzeby instalacji, wykorzystano również zdigitalizowane zasoby w&nbsp;ramach działania
+  – Kultura Cyfrowa 2016 i&nbsp;2017 zasoby.</p>
 
-<img src="../assets/fotosy/faza5a.webp" alt="dfvfv"  style="max-width: 45vw">
+<img src="../assets/fotosy/faza5a.webp" alt="dfvfv"  style="max-width: 45vw; margin: 0 0 0 25vw;">
 
 
 <p>Wszystko zostało ujęte w&nbsp;formie interaktywnej aplikacji, dostępnej na&nbsp;stole multimedialnym i&nbsp;w&nbsp;Internecie.</p>
@@ -155,12 +156,5 @@ import Arrows from '~/components/Arrows.vue';
   }
 </script>
 <style>
-p {
-  max-width: 75vw;
-  font-size: 1.2em;
-  color: #fff;
-}
-a, ul li, ol li {
-  color: #fff;
-}
+
 </style>

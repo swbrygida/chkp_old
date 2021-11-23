@@ -395,7 +395,7 @@ opacity: 1;
 /* filter: grayscale(0); */
 
 }
-
+/* 
 @media screen  and (orientation: portrait) {
   h3 {
     font-size: 1.4rem;
@@ -430,7 +430,7 @@ opacity: 1;
   img.small {
     width: 40%;
   }
-}
+} */
 
 
 </style>

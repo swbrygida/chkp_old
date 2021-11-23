@@ -8,7 +8,7 @@
   <i class="fas fa-angle-double-down"></i>
   </a>
   <a href="#">
-  <p class="sekcje"><span>POZIOM</span> {{ktorypoziom}} <br>{{slajd}}/{{slajdy}}</p>
+  <div class="sekcje"><span>POZIOM</span> {{ktorypoziom}} <br>{{slajd}}/{{slajdy}}</div>
   </a>
 
   <a href="#"  @click="odejmij">
@@ -127,7 +127,7 @@ if (this.clicker < this.level2){
   }
   .sekcje {
     font-size: 0.6em;
-    margin: -10vh 0 0 0  ;
+    margin: -10vh 0 0 0;
     color: gray;
   }
   .sekcje span {
