@@ -6,6 +6,9 @@
   <div class="figure onme">
   <img src="../assets/fotosy/Brygida2.jpg" />
   </div>
+  <div class="proroctwo">
+
+
   <p>„zostaną złamane ich zęby i skruszone ostrza ich mieczy” </br>
   Po tym Syn do Mnie mówił: pokazałem ci wyżey o pszczołach,</br>
   że trojakie dobro mają od pszczelnika swego; powiadam ci teraz,</br>
@@ -21,10 +24,11 @@
   a prawa noga oderwana będzie, aby żyli y samych siebie poznali.</br>
   Skarby Niebieskich Tajemnic to jest Księgi Objawienia niebieskiego</br>
   Świętey Matki Brygitty z rodzeju Królewskiego Xiężney Nerycki</br>
-  ze Szwecyey Fundatorki Reguły S. Salvatora</br>
-  z łacińskich na polskie przełożone przez zakonnika Braci Mniejszych Oyców Bernardynów</br>
+  ze Szwecyey Fundatorki Reguły S. Salvatora</p>
+  <p>z łacińskich na polskie przełożone przez zakonnika Braci Mniejszych Oyców Bernardynów</br>
   za pozwoleniem starszych,</br>
   Zamość 1698, ks. lI, rozdz. 19, s.138.</p>
+  </div>
   </section>
 <section>
   <div class="figure onme">
@@ -173,7 +177,13 @@ export default {
 }
 
 </script>
-<style >
+<style scoped >
+  .proroctwo p {
+    margin: 3vh 5vw;
+    padding: 1vh 1vw;
+    max-width: 80vw;
+    background-color: transparent;
+  }
 
 
 </style>
