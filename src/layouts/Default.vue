@@ -39,11 +39,15 @@ body {
 
     min-height: 110vh;
 
+
+
 }
 
 section {
   display: none;
   min-height: 110vh;
+  max-width: 100vw;
+  overflow: hidden;
 
 }
 .figure {

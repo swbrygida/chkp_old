@@ -15,7 +15,7 @@
   <i class="znik fas fa-angle-double-up" @click="odejmij"></i>
 </div>
 <a href="/menu/">
-<i class="fas fa-solid fa-bars"></i>
+<i class="menuIcon fas fa-solid fa-bars"></i>
 </a>
 
 
@@ -127,7 +127,7 @@ if (this.clicker < this.level2){
   }
   .sekcje {
     font-size: 0.6em;
-    margin: -2vh 0 0 0;
+    margin: 2vh 0 0 0;
     color: gray;
   }
   .sekcje span {
@@ -151,14 +151,14 @@ if (this.clicker < this.level2){
   }
   .sekcje {
     font-size: 0.8em;
-    margin: -10vh 0 0 0 ;
+    margin: -8vh 0 0 0 ;
     color: gray;
     padding: 8vh 0 0 0;
     line-height: 1.2em;
 
   }
   .sekcje span {
-    font-size: 0.6em;
+    font-size: 0.4em;
   }
 }
 
@@ -168,8 +168,8 @@ if (this.clicker < this.level2){
   height: 11vh;
   padding: 1vh 1vw;
   text-align: center;
-font-size: 1.9em;
-padding: 3vh 0;
+  font-size: 1.9em;
+  padding:0;
   background: #333;
   /* border-radius: 50%; */
 
@@ -186,6 +186,11 @@ box-shadow: 0 0 5px #ffee10;
 text-shadow: 0 0 5px #ffee10;
 }
 
+.znik, .menuIcon {
+  width: 100%;
+  height: 100%;
+  padding: 3vh 0 ;
+}
 
 
 </style>

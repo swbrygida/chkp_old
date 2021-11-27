@@ -42,9 +42,9 @@
   </section>
   <section>
 
-  <div class="figure">
+  <!-- <div class="figure">
   <img src="../assets/fotosy/Zywot-sw.-Brygidy.jpg" />
-  </div>
+  </div> -->
   <p>Brygida Szwedzka (1303- 1373) – słynna szwedzka mistyczka. Żona i matka, a następnie założycielka zgromadzenia, zajmowała wysoką pozycję społeczną i odegrała znaczącą rolę w ówczesnej polityce. Z całą siłą wkraczała w zawiłe sytuacje polityczno-społeczne, m.in. w kwestiach dotyczących zakończenia tzw. wojny stuletniej, toczącej się pomiędzy Francją i Anglią, jak również w odniesieniu do sytuacji ludzi dotkniętych epidemią dżumy, czy zakończenia tzw. niewoli awiniońskiej papieży, a nawet zachęcania do zdetronizowania króla szwedzkiego oraz krytykowania zakonu krzyżackiego, zmierzającego do upadku z powodu chciwości, bezduszności i bezbożności znacznej części jego członków. Brygida całkowicie oddała się realizowaniu zadań powierzonych jej w objawieniach, rozpoczęła ewangelizację poprzez świadectwo życia, które ujawniły się w podejmowaniu dzieł miłosierdzia, pielgrzymowania do miejsc świętych, budowa szpitali i przytułków, gdzie osobiście zajmowała się chorymi i biednymi. Poprzez objawienia, których doświadczała napominała i wskazała drogę naprawy struktur i funkcjonowania ówczesnego Kościoła, podkreślała znaczenie sakramentów świętych w życiu chrześcijanina, których szafarzem jest ustanowiony przez Jezusa Kościół.</p>
   <p>Św. Brygido Szwedzka! Gdzie tkwi sekret Twojej wielkości?</p>
   <p>Ks. Antoni Tatara</p>
@@ -72,6 +72,7 @@
   <p>8 października – obecnie 23 lipca</p>
 </section>
 <section>
+  <h3>Mistyczne zaślubiny św. Brygidy </h3>
   <div class="figure">
   <img src="../assets/fotosy/Mistyczne-zaslubiny.jpg" />
   </div>
@@ -84,6 +85,7 @@
 
 </section>
 <section>
+  <h3>Brygidki adorujące krzyż w ogrodzie</h3>
   <div class="figure">
   <img src="../assets/fotosy/Adoracja-krzyza-przez-Brygidki.jpg" />
   </div>
@@ -92,12 +94,13 @@
   <p>Unikała Brygida ułud świata, ale nie mogła się całkowicie uchylić od zaszczytów, jakie ją spotykały i musiała przyjąć godność ochmistrzyni przy dworze młodej królowej w Sztokholmie. Powietrze dworskie nie przypadało jej jednak do smaku i wkrótce poznała, że nie tam jest jej właściwe pole działania. Dlatego po kilku latach poprosiła o zwolnienie z urzędu, aby oddać się całkowicie Bogu i rodzinie, i namówiła męża, aby złożył wszystkie swe dostojeństwa i godności i towarzyszył jej w modlitwach i duchownych ćwiczeniach.</p>
 </section>
 <section>
-  <p>Święta Brygida</p>
+  <h3>Św. Brygida podróżuje do Rzymu</h3>
   <div class="figure">
   <img src="../assets/fotosy/Sw.-Brygida-w-drodze-do-Rzymu.jpg" />
   </div>
 </section>
 <section>
+  <h3>Św. Katarzyna w drodze do Rzymu</h3>
   <div class="figure">
   <img src="../assets/fotosy/Sw.-Katarzyna-pielgrzumuje-do-Rzymu.jpg" />
   </div>
@@ -112,6 +115,7 @@
   <p>1) <em>Miłość upodobania</em> okazuje ten, kto czuje żywą radość, że Chrystus jest tak wielkim i wzniosłym w swej doskonałości. Udowodnił Pan Jezus tę doskonałość ofiarą swego życia za nas i bolesną śmiercią na krzyżu, za co, jak pisze święty Paweł: <em>„Bóg Go wywyższył i dał Mu Imię ponad wszystkie imiona, aby wszystko w Niebie, na ziemi i pod ziemią zginało przed Nim kolana”.</em> Święta Brygida już od dziecka łzami podziwu i wdzięczności okazywała Mu serdeczne upodobanie za to, że się dobrowolnie poniżył i umarł między dwoma łotrami, za co Go Bóg posadził po prawicy swojej. Pamiętajmy więc o tym i spodziewajmy się tym więcej pomocy i pociechy od Niego, im większa jest Jego potęga i im lepiej zna potrzeby nasze.</p>
 </section>
 <section>
+  <h3>Wizja z ukrzyżowanym Chrystusem </h3>
   <div class="figure">
   <img src="../assets/fotosy/Sw.-Brygida-przy-Krzyzu.jpg" />
   </div>
@@ -121,6 +125,7 @@
 
 </section>
 <section>
+  <h3>Śmierć św. Brygidy </h3>
   <div class="figure">
   <img src="../assets/fotosy/Smierc-sw.-Brygidy.jpg" />
   </div>

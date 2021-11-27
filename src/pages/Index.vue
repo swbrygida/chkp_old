@@ -26,7 +26,7 @@
         <div class="image-wrapper ruch" >
           <g-image src="~/assets/fotosy/Pomnik-pod-Grunwaldem.jpg" width="500"/>
         </div></g-link>
-        <h2 class="title" data-cta="w bitwie pod Grunwaldem →">Zwycięstwo Jagiełły</h2>
+        <h2 class="title" data-cta="i zwycięstwo w bitwie pod Grunwaldem →">Król Władysław Jagiełło</h2>
       </div>
       <div class="promo" style="--overlay-color: yellowgreen"  @click="pokaVfaz">
         <div class="image-wrapper ruch" >
